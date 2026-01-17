@@ -402,7 +402,7 @@ header {
 /* MOBILE RESPONSIVE - Keeping your exact queries */
 @media (max-width: 750px) {
     .container { width: 95%; }
-    .header-box h1 { font-size: 2.4rem; }
+    .header-box h1 { font-size: 2rem; }
     .controls-row { flex-direction: column-reverse; align-items: stretch; }
     .search-container { width: 100%; }
     .program-row {
