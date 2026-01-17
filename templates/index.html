@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="../static/favicon.png" type="image/x-icon" />
+    <title>AmbassadorHub</title>
+    <link rel="stylesheet" href="../static/styles.css" />
+    <link href="https://fonts.googleapis.com/css2?family=Lexend:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <div id="cursor-blob"></div>
+    <div class="container">
+        <div class="header-box">
+            <h1>AmbassadorHub</h1>
+            <p class="subtitle">Aggregated list of active ambassador opportunities</p>
+        </div>
+        <div class="controls-row">
+            <div id="projectCounter" class="counter-text">0 active opportunities found</div>
+            <div class="search-container">
+                <input type="text" id="searchInput" placeholder="Search project or category..."
+                    oninput="handleSearch(this.value)">
+            </div>
+        </div>
+
+        <div class="programs-list" id="programsList"></div>
+    </div>
+
+    <!-- Modal -->
+    <div class="modal" id="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button class="modal-close" onclick="closeModal()">&times;</button>
+                <h2 class="modal-title" id="modalTitle"></h2>
+                <span class="program-category" id="modalCategory"></span>
+            </div>
+            <div class="modal-body">
+                <div class="detail-section">
+                    <div class="detail-label">About</div>
+                    <div class="detail-content" id="modalDescription"></div>
+                </div>
+                <div class="button-group">
+                    <a href="#" target="_blank" class="btn btn-secondary" id="announcementBtn">View Announcement</a>
+                    <a href="#" target="_blank" class="btn btn-primary" id="applyBtn">Apply Now</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="paginationNav" class="pagination-container"></div>
+
+    <footer class="site-footer">
+    <p>Built with ❤️ by <a href="https://x.com/your-profile" target="_blank">Connor</a> © 2026</p>
+    </footer>
+    <script>
+        window.programsData = { "programs": {{ programs | tojson }} };
+    </script>
+
+    <script src="/static/script.js"></script>
+</body>
+
+</html>

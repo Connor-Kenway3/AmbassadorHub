@@ -1,0 +1,517 @@
+{
+    "programs": [
+        {
+            "id": "airaaagent",
+            "name": "Airaa",
+            "logo": "https://pbs.twimg.com/profile_images/2003400424184025088/W2VdY6WT.jpg",
+            "status": "active",
+            "category": "AI",
+            "socials": {
+                "website": "https://airaa.xyz/",
+                "twitter": "https://twitter.com/AiraaAgent",
+                "discord": "https://discord.com/invite/CUFBNuJw7T"
+            },
+            "details": {
+                "description": "Airaa is a unified distribution platform helping brands to grow mindshare and onchain activity with AI.",
+                "announcement_url": "https://x.com/AiraaAgent/status/2010713156398850048",
+                "apply_url": "https://docs.google.com/forms/d/e/1FAIpQLSe6qyr6dHHSBcQTUfh36jXjZHBx7o46oVa8lr-oiuH6-lmlmQ/viewform"
+            }
+        },
+        {
+            "id": "burnt_xion",
+            "name": "XION",
+            "logo": "https://pbs.twimg.com/profile_images/1881756422507024384/Huw5cTrb.jpg",
+            "status": "active",
+            "category": "L1",
+            "socials": {
+                "website": "https://xion.burnt.com/",
+                "twitter": "https://x.com/burnt_xion",
+                "discord": "https://discord.com/invite/burnt"
+            },
+            "details": {
+                "description": "XION is the trust layer for the internet, turning verified data into programmable value, leveraged by over 150 brands.",
+                "announcement_url": "https://x.com/burnt_xion/status/2011423237230748107",
+                "apply_url": "https://xioncommunity.com/"
+            }
+        },
+        {
+            "id": "injective",
+            "name": "Injective",
+            "logo": "https://pbs.twimg.com/profile_images/2008249187247198208/dqq6ivEi.jpg",
+            "status": "active",
+            "category": [
+                "L1",
+                "DeFi"
+            ],
+            "socials": {
+                "website": "https://injective.com/",
+                "twitter": "https://twitter.com/injective",
+                "discord": "https://discord.com/invite/injective"
+            },
+            "details": {
+                "description": "Injective is a blockchain built for finance, offering high-speed trading and advanced DeFi capabilities.",
+                "announcement_url": "https://x.com/injective/status/1932486719535829459",
+                "apply_url": "https://docs.google.com/forms/d/e/1FAIpQLSd5v9hi2pZz8lI3PEhd3_oQXs4QZm6Mq5tPPO5pGQUgHCCWTQ/viewform"
+            }
+        },
+        {
+            "id": "theoriqai",
+            "name": "Theoriq",
+            "logo": "https://pbs.twimg.com/profile_images/1810489288947019776/cEt5sHX_.jpg",
+            "status": "active",
+            "category": "AI",
+            "socials": {
+                "website": "https://www.theoriq.ai/",
+                "twitter": "https://twitter.com/TheoriqAI",
+                "discord": "https://discord.com/invite/theoriq"
+            },
+            "details": {
+                "description": "Theoriq is home of AlphaVault, autonomous onchain yield powered by agent swarms.",
+                "announcement_url": "https://x.com/theoriqai/status/2011850235015049677?s=46",
+                "apply_url": "https://x.com/theoriqai/status/2011850235015049677?s=46"
+            }
+        },
+        {
+            "id": "sentienteco",
+            "name": "Sentient",
+            "logo": "https://pbs.twimg.com/profile_images/1988552467769147392/0IWJ9RZE.jpg",
+            "status": "active",
+            "category": "AI",
+            "socials": {
+                "website": "https://www.sentient.xyz/",
+                "twitter": "https://twitter.com/SentientAGI",
+                "discord": "https://discord.gg/sentientfoundation"
+            },
+            "details": {
+                "description": "Sentient Ecosystem empowers builders, researchers, and the community in advancing open-source AGI.",
+                "announcement_url": "https://www.sentient.foundation/resources/be-the-sparks",
+                "apply_url": "https://forms.gle/iteKtQqHdi72qo5v5"
+            }
+        },
+        {
+            "id": "cronos_chain",
+            "name": "Cronos",
+            "logo": "https://pbs.twimg.com/profile_images/2005458318014435328/CUxIhh3S.jpg",
+            "status": "active",
+            "category": "L1",
+            "socials": {
+                "website": "https://cronos.org/",
+                "twitter": "https://twitter.com/cronos_chain",
+                "discord": "https://discord.com/invite/cronos"
+            },
+            "details": {
+                "description": "Cronos is bringing real-world finance to billions on-chain, with EVM compatibility, AI-ready features, and compliance.",
+                "announcement_url": "https://twitter.com/cronos_chain",
+                "apply_url": "https://cronos.typeform.com/s2application"
+            }
+        },
+        {
+            "id": "midnightntwrk",
+            "name": "Midnight",
+            "logo": "https://pbs.twimg.com/profile_images/1707073625214582784/MsMpvtzV.jpg",
+            "status": "active",
+            "category": "Privacy",
+            "socials": {
+                "website": "https://midnight.network/",
+                "twitter": "https://twitter.com/MidnightNtwrk",
+                "discord": "https://discord.com/invite/midnightnetwork"
+            },
+            "details": {
+                "description": "Midnight is an innovative blockchain empowering ground-breaking apps that safeguard sensitive commercial and personal data.",
+                "announcement_url": "https://x.com/MidnightNtwrk/status/2012237602133352740",
+                "apply_url": "https://mpc.midnight.network/midnight-ambassador"
+            }
+        },
+        {
+            "id": "flow_blockchain",
+            "name": "Flow",
+            "logo": "https://pbs.twimg.com/profile_images/1928495609608286209/uhYIxY6U.jpg",
+            "status": "active",
+            "category": "L1",
+            "socials": {
+                "website": "https://flow.com",
+                "twitter": "https://twitter.com/flow_blockchain",
+                "discord": "https://discord.com/invite/flow"
+            },
+            "details": {
+                "description": "Flow is the home of consumer DeFi, where mature DeFi meets consumer UX.",
+                "announcement_url": "https://flow.com/flow-ambassador-program",
+                "apply_url": "https://flow.com/flow-ambassador-program"
+            }
+        },
+        {
+            "id": "nexo",
+            "name": "Nexo",
+            "logo": "https://pbs.twimg.com/profile_images/1851979907858939904/W6rmWAvR.jpg",
+            "status": "active",
+            "category": "Finance",
+            "socials": {
+                "website": "https://nexo.com/",
+                "twitter": "https://twitter.com/Nexo",
+                "discord": null
+            },
+            "details": {
+                "description": "Nexo is the premier digital assets wealth platform for growing, trading, borrowing, and earning on digital assets.",
+                "announcement_url": "https://nexo.com/ambassadors",
+                "apply_url": "https://nexo.com/ambassadors"
+            }
+        },
+        {
+            "id": "hedera",
+            "name": "Hedera",
+            "logo": "https://pbs.twimg.com/profile_images/1657693585234337792/0Y5Y6bnW.jpg",
+            "status": "active",
+            "category": "L1",
+            "socials": {
+                "website": "https://hedera.com/",
+                "twitter": "https://twitter.com/hedera",
+                "discord": "https://discord.com/invite/hederahashgraph"
+            },
+            "details": {
+                "description": "Hedera is an enterprise-grade public network built on hashgraph consensus.",
+                "announcement_url": "https://hedera.com/ambassador-program/",
+                "apply_url": "https://hedera.com/ambassador-program/"
+            }
+        },
+        {
+            "id": "seedlicapital",
+            "name": "Seedli Capital",
+            "logo": "https://pbs.twimg.com/profile_images/1970650171781296128/i7ogUaOc.jpg",
+            "status": "active",
+            "category": "Finance",
+            "socials": {
+                "website": "https://www.seedlicapital.com/",
+                "twitter": "https://twitter.com/SeedliCapital",
+                "discord": "https://discord.com/invite/SeedliCapital"
+            },
+            "details": {
+                "description": "Seedli Capital is the first decentralized hedge fund investing in RWA and AI.",
+                "announcement_url": "https://x.com/SeedliCapital/status/2010751598050623794",
+                "apply_url": "https://docs.google.com/forms/d/e/1FAIpQLScv5gJxdCLlv9FHZE15Tft4lhqVfkZZg_0CXz3tQINTRJXhdQ/viewform"
+            }
+        },
+        {
+            "id": "cicadafinance",
+            "name": "Cicada",
+            "logo": "https://pbs.twimg.com/profile_images/1937505471512154112/5e8N9Nte.jpg",
+            "status": "active",
+            "category": "Finance",
+            "socials": {
+                "website": "https://cicada.finance/",
+                "twitter": "https://twitter.com/CicadaFinance",
+                "discord": "https://discord.com/invite/cicadafinance"
+            },
+            "details": {
+                "description": "Cicada is a tech issuance and onchain asset management platform offering institution-grade hybrid yield products onchain.",
+                "announcement_url": "https://twitter.com/CicadaFinance",
+                "apply_url": "https://docs.google.com/forms/d/e/1FAIpQLSetv_DO_vC-VWL6_SPWpej1WQJoi7ekO2QKjmIy60GoWIOsKQ/viewform?usp=send_form"
+            }
+        },
+        {
+            "id": "oroswap",
+            "name": "Oroswap",
+            "logo": "https://pbs.twimg.com/profile_images/1996170207635664896/7fYOXf8-.jpg",
+            "status": "active",
+            "category": "DeFi",
+            "socials": {
+                "website": "https://www.oroswap.org/",
+                "twitter": "https://twitter.com/oroswap",
+                "discord": "https://discord.com/invite/FSx6sCg7"
+            },
+            "details": {
+                "description": "Oroswap is the first AI-powered DEX on ZIGChain, enabling seamless trading of RWAs and crypto.",
+                "announcement_url": "https://x.com/oroswap/status/2012168742034350548",
+                "apply_url": "https://forms.gle/3xAEMQZ2EJA5AcDp7"
+            }
+        },
+        {
+            "id": "altiuslabs",
+            "name": "Altius",
+            "logo": "https://pbs.twimg.com/profile_images/2007808502731804672/cvbkAOIw.jpg",
+            "status": "active",
+            "category": "Blockchain",
+            "socials": {
+                "website": "https://www.altiuslabs.xyz/",
+                "twitter": "https://twitter.com/AltiusLabs",
+                "discord": "https://discord.gg/altiuslabs"
+            },
+            "details": {
+                "description": "Altius provides an institutional-grade execution layer to futureproof your blockchain with instant high performance.",
+                "announcement_url": "https://x.com/AltiusLabs/status/1904217340901748889",
+                "apply_url": "https://docs.google.com/forms/d/e/1FAIpQLSd6qX6r_NhUDJqFez9-Sa7a8XZ3h7V39qZWpX9hctOVs4M_gw/viewform?usp=send_form"
+            }
+        },
+        {
+            "id": "alchemypay",
+            "name": "Alchemy Pay",
+            "logo": "https://pbs.twimg.com/profile_images/1875008116116557824/UOPehQMZ.jpg",
+            "status": "active",
+            "category": "Payment",
+            "socials": {
+                "website": "https://alchemypay.org/",
+                "twitter": "https://twitter.com/AlchemyPay",
+                "discord": "https://discord.com/invite/alchemypay"
+            },
+            "details": {
+                "description": "Alchemy Pay is a fiat-crypto payment gateway bridging fiat and crypto global economies.",
+                "announcement_url": "https://alchemypay.org/global-ambassador-programy",
+                "apply_url": "https://alchemypay.org/global-ambassador-program"
+            }
+        },
+        {
+            "id": "hedra_labs",
+            "name": "Hedra",
+            "logo": "https://pbs.twimg.com/profile_images/1985038638644944896/J71C-3Kj.jpg",
+            "status": "active",
+            "category": "AI",
+            "socials": {
+                "website": "https://www.hedra.com/",
+                "twitter": "https://twitter.com/hedra_labs",
+                "discord": "https://discord.com/invite/KXeUUa6cXD"
+            },
+            "details": {
+                "description": "Hedra is the most productive way to go from idea to content, leveraging generative video and image models.",
+                "announcement_url": "https://x.com/hedra_labs/status/2012264797300211999",
+                "apply_url": "https://partners.dub.co/hedra"
+            }
+        },
+        {
+            "id": "sanity_united",
+            "name": "Sanity United",
+            "logo": "https://pbs.twimg.com/profile_images/2011491284402520071/FoLAnPZI.jpg",
+            "status": "active",
+            "category": "Mining",
+            "socials": {
+                "website": "https://sanity.fund",
+                "twitter": "https://twitter.com/sanity_united",
+                "discord": null
+            },
+            "details": {
+                "description": "Sanity United makes life easier through task delegation and sustainable crypto mining powered by renewables.",
+                "announcement_url": "https://x.com/sanity_united/status/2010355358166925368",
+                "apply_url": "https://docs.google.com/forms/d/e/1FAIpQLSdWjqw8Uex7I_lOyDjUOFoQTdddW98fpfY-OIgr_rGqBqB7Ag/viewform"
+            }
+        },
+        {
+            "id": "kimberlitetoken",
+            "name": "KimberLite Token",
+            "logo": "https://pbs.twimg.com/profile_images/1979441895441915904/iuvWDoJN.jpg",
+            "status": "active",
+            "category": "RWA",
+            "socials": {
+                "website": "https://kimbertoken.com/",
+                "twitter": "https://twitter.com/KimberLiteToken",
+                "discord": "https://discord.com/invite/AtFhgnC7f4"
+            },
+            "details": {
+                "description": "KimberLite Token brings the world of rough diamond investing on-chain with decentralized diamond deals.",
+                "announcement_url": "https://x.com/KimberliteToken/status/1999056567153430809",
+                "apply_url": "https://kimberlite-token.gitbook.io/kimberlite-ambassadors"
+            }
+        },
+        {
+            "id": "pivx",
+            "name": "PIVX",
+            "logo": "https://pbs.twimg.com/profile_images/2008332329849102336/GOmomcLO.png",
+            "status": "active",
+            "category": "L1",
+            "socials": {
+                "website": "https://pivx.org/",
+                "twitter": "https://twitter.com/_PIVX",
+                "discord": "https://discord.com/invite/pivx"
+            },
+            "details": {
+                "description": "PIVX is a privacy-focused cryptocurrency that believes in keeping your data secure while transacting online.",
+                "announcement_url": "https://x.com/_PIVX/status/1965038209022263804",
+                "apply_url": "https://pivx.org/ambassador-program"
+            }
+        },
+        {
+            "id": "rootstock_io",
+            "name": "Rootstock",
+            "logo": "https://pbs.twimg.com/profile_images/1980998175507828736/UpCHtR56.jpg",
+            "status": "active",
+            "category": "L1",
+            "socials": {
+                "website": "https://rootstock.io/",
+                "twitter": "https://twitter.com/rootstock_io",
+                "discord": "https://discord.com/invite/rootstock"
+            },
+            "details": {
+                "description": "Rootstock is Bitcoin's DeFi layer, established in 2015, enabling BTCFi.",
+                "announcement_url": "https://x.com/rootstock_io/status/2011090989633720356",
+                "apply_url": "https://rootstockers.brandchamp.io/apply"
+            }
+        },
+        {
+            "id": "haven_rwa",
+            "name": "Haven",
+            "logo": "https://pbs.twimg.com/profile_images/1968969832701054976/_wRn0ksB.jpg",
+            "status": "active",
+            "category": "RWA",
+            "socials": {
+                "website": "https://haven.financial/",
+                "twitter": "https://twitter.com/haven_rwa",
+                "discord": null
+            },
+            "details": {
+                "description": "Haven is an on-chain fixed income supermarket bringing real-world assets (RWA) to DeFi with secure, yield-generating opportunities.",
+                "announcement_url": "https://twitter.com/haven_rwa/status/1998706141828886643",
+                "apply_url": "https://docs.google.com/forms/d/e/1FAIpQLScFZCW4iAfgJE998BxhnVtfIRABxcD5_OZigLgddF64LbsDFw/viewform?usp=send_form"
+            }
+        },
+        {
+            "id": "get_optimum",
+            "name": "Optimum",
+            "logo": "https://pbs.twimg.com/profile_images/1894428615372075008/Qb6F39O0.jpg",
+            "status": "active",
+            "category": "Infrastructure",
+            "socials": {
+                "website": "https://www.getoptimum.xyz/",
+                "twitter": "https://twitter.com/get_optimum",
+                "discord": "https://discord.com/invite/getoptimum"
+            },
+            "details": {
+                "description": "Optimum is a turbocharged data propagation layer for any blockchain, powered by RLNC for efficient, decentralized performance.",
+                "announcement_url": "https://x.com/get_optimum/status/2006072420428571002",
+                "apply_url": "https://tally.so/r/VLEV1E"
+            }
+        },
+        {
+            "id": "hela_network",
+            "name": "HeLa Labs",
+            "logo": "https://pbs.twimg.com/profile_images/1660607342172598272/I5NPhhXH.jpg",
+            "status": "active",
+            "category": "L1",
+            "socials": {
+                "website": "https://helalabs.com/",
+                "twitter": "https://twitter.com/Hela_Network",
+                "discord": "https://discord.com/invite/helalabs"
+            },
+            "details": {
+                "description": "HeLa is an AI-native Layer 1 blockchain for human-AI collaboration, combining personalized AI with native yields on one chain.",
+                "announcement_url": "https://helalabs.com/blog/hela-ambassador-program-2-0",
+                "apply_url": "https://ambassador.helalabs.com/"
+            }
+        },
+        {
+            "id": "degenphone",
+            "name": "DegenPhone",
+            "logo": "https://pbs.twimg.com/profile_images/1973414878816731136/7HbQiVdL.jpg",
+            "status": "active",
+            "category": "Telecom",
+            "socials": {
+                "website": "https://degenphone.xyz/",
+                "twitter": "https://twitter.com/degenphone",
+                "discord": "https://discord.com/invite/degenphone"
+            },
+            "details": {
+                "description": "DegenPhone enables minting, using, and trading real phone numbers as NFTs on TON, offering fast, private, KYC-free mobile connectivity.",
+                "announcement_url": "https://twitter.com/degenphone/status/2008909933367197921",
+                "apply_url": "https://docs.google.com/forms/d/12oTPmzkSIs6-FrWN_B75dbRQHKuWcfbMwwZbPCaf62c/viewform?edit_requested=true"
+            }
+        },
+        {
+            "id": "axisrobotics",
+            "name": "Axis AI",
+            "logo": "https://pbs.twimg.com/profile_images/1995399652569673728/47trjbNG.jpg",
+            "status": "active",
+            "category": "AI",
+            "socials": {
+                "website": "https://axisrobotics.ai/",
+                "twitter": "https://twitter.com/axisrobotics",
+                "discord": "https://discord.gg/raKBBYrSBe"
+            },
+            "details": {
+                "description": "Axis AI is an entropy reduction machine focused on transferring human intelligence into robotics general intelligence, built collaboratively.",
+                "announcement_url": "https://discord.com/channels/1447846489622581394/1447952593551626444/1460531744095866921",
+                "apply_url": "https://docs.google.com/forms/d/e/1FAIpQLSfdCw69lykmGlI60wC-C97T3CmzN_T35AVV1R-N7ukG2I6w4A/viewform"
+            }
+        },
+        {
+            "id": "saharaai",
+            "name": "Sahara AI",
+            "logo": "https://pbs.twimg.com/profile_images/1955663161928921088/nn_g5zL1.png",
+            "status": "active",
+            "category": "AI",
+            "socials": {
+                "website": "https://saharaai.com/",
+                "twitter": "https://twitter.com/SaharaAI",
+                "discord": "https://discord.com/invite/sahara-ai"
+            },
+            "details": {
+                "description": "Sahara AI is a full-stack, AI-native blockchain platform enabling users to build, contribute to, and monetize AI in an open ecosystem.",
+                "announcement_url": "https://saharaai.com/blog/ambassador-program",
+                "apply_url": "https://saharaai.com/community/ambassador-program"
+            }
+        },
+        {
+            "id": "shardeum",
+            "name": "Shardeum",
+            "logo": "https://pbs.twimg.com/profile_images/1808852486402211840/4B19YQz_.jpg",
+            "status": "active",
+            "category": "L1",
+            "socials": {
+                "website": "https://shardeum.org/",
+                "twitter": "https://twitter.com/shardeum",
+                "discord": "https://discord.gg/shardeum"
+            },
+            "details": {
+                "description": "Shardeum is a scalable Layer 1 blockchain building a homegrown onchain ecosystem, focused on accessibility and dApps for India and beyond.",
+                "announcement_url": "https://shardeum.org/blog/shardeum-ambassador-program",
+                "apply_url": "https://shardeum.org/ambassador-program"
+            }
+        },
+        {
+            "id": "dtelecom",
+            "name": "dTelecom",
+            "logo": "https://pbs.twimg.com/profile_images/1506185146168496134/FSDI6I7I.jpg",
+            "status": "active",
+            "category": "DePIN",
+            "socials": {
+                "website": "https://dtelecom.org/",
+                "twitter": "https://twitter.com/dtelecom",
+                "discord": "https://discord.gg/dtelecom"
+            },
+            "details": {
+                "description": "dTelecom is a decentralized real-time communication network on Solana, enabling voice, video, and chat flows with owned resources and rewards.",
+                "announcement_url": "https://twitter.com/dtelecom/status/2012163894899323165",
+                "apply_url": "https://twitter.com/dtelecom"
+            }
+        },
+        {
+            "id": "interlink_itlg",
+            "name": "Interlink Network",
+            "logo": "https://pbs.twimg.com/profile_images/1950520988631719936/GIAXJMKx.jpg",
+            "status": "active",
+            "category": "DePIN",
+            "socials": {
+                "website": "https://linkvault.interlinklabs.ai/",
+                "twitter": "https://twitter.com/inter_link",
+                "discord": "https://discord.com/invite/interlink"
+            },
+            "details": {
+                "description": "Interlink Network builds a verified human network in Web3, focusing on real users, not bots, with tokens like $ITLG and $ITL.",
+                "announcement_url": "https://x.com/inter_link/status/1917418206509293943",
+                "apply_url": "https://tally.so/r/3EAk7o"
+            }
+        },
+        {
+            "id": "tryqensa",
+            "name": "Qensa",
+            "logo": "https://pbs.twimg.com/profile_images/1965801547327254529/OsqpxBPM.jpg",
+            "status": "active",
+            "category": "Social",
+            "socials": {
+                "website": "https://qensa.com/",
+                "twitter": "https://twitter.com/TryQensa",
+                "discord": null
+            },
+            "details": {
+                "description": "Qensa is a modern Myspace-style link-in-bio tool for curating microsites to showcase art, NFTs, work, videos, merch, music, and more.",
+                "announcement_url": "https://twitter.com/TryQensa/status/2008871219903222229",
+                "apply_url": "https://qensa.com/ambassador-sign-up"
+            }
+        }
+    ]
+}
