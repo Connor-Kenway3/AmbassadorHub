@@ -512,6 +512,74 @@
                 "announcement_url": "https://twitter.com/TryQensa/status/2008871219903222229",
                 "apply_url": "https://qensa.com/ambassador-sign-up"
             }
+        },
+        {
+            "id": "spaace_io",
+            "name": "Spaace",
+            "logo": "https://pbs.twimg.com/profile_images/1651202265405898753/6PanR3uY.jpg",
+            "status": "active",
+            "category": "NFT",
+            "socials": {
+                "website": "https://spaace.io",
+                "twitter": "https://twitter.com/spaace_io",
+                "discord": "https://discord.com/invite/G8vftE95Nt"
+            },
+            "details": {
+                "description": "Spaace is the fastest-growing, community-driven NFT marketplace with gamified trading, real rewards, XP leaderboards, and 100% revenue sharing in ETH for stakers.",
+                "announcement_url": "https://twitter.com/spaace_io/status/2012533263903154331",
+                "apply_url": "https://spaace.io/rewards/referral-ambassador"
+            }
+        },
+        {
+            "id": "rozoai",
+            "name": "ROZO",
+            "logo": "https://pbs.twimg.com/profile_images/1907318432514859008/nPR-2TpI.jpg",
+            "status": "active",
+            "category": "Payment",
+            "socials": {
+                "website": "https://rozo.ai/",
+                "twitter": "https://twitter.com/ROZOai",
+                "discord": "https://discord.com/invite/acVXehZQtP"
+            },
+            "details": {
+                "description": "ROZO provides Visa for Crypto with an intent-based Payment API for seamless crypto-native checkout, aiming to increase the GDP of Crypto.",
+                "announcement_url": "https://twitter.com/ROZOai/status/2006270345771377041",
+                "apply_url": "https://medium.com/@sky_22052/rozo-ambassador-program-exit-the-old-economy-b56568253d3f"
+            }
+        },
+        {
+            "id": "trylimitless",
+            "name": "Limitless",
+            "logo": "https://pbs.twimg.com/profile_images/1933055667524239360/mqiIx1cj.jpg",
+            "status": "active",
+            "category": "Prediction Market",
+            "socials": {
+                "website": "https://limitless.exchange/pro",
+                "twitter": "https://twitter.com/trylimitless",
+                "discord": "https://docs.google.com/forms/d/e/1FAIpQLSf9wwdob0QudOxTZOV_AcCIGutFLnAhtfg-NxqPr8gq3VSXqg/viewform"
+            },
+            "details": {
+                "description": "Limitless enables nonstop hourly and daily prediction markets for crypto and stock prices, allowing users to trade anytime with over $750M+ in volume.",
+                "announcement_url": "https://twitter.com/trylimitless/status/1986433950278165004",
+                "apply_url": "https://t.co/rz96tDLPvE"
+            }
+        },
+        {
+            "id": "arbitrum",
+            "name": "Arbitrum",
+            "logo": "https://pbs.twimg.com/profile_images/1952411676621295616/KUOmiy3l.jpg",
+            "status": "active",
+            "category": "L2",
+            "socials": {
+                "website": "https://arbitrum.io",
+                "twitter": "https://twitter.com/arbitrum",
+                "discord": "https://discord.com/invite/arbitrum"
+            },
+            "details": {
+                "description": "Arbitrum is an Ethereum Layer 2 scaling solution offering secure, fast, cheap, and EVM-compatible transactions for an onchain ecosystem for all.",
+                "announcement_url": "https://arbitrum.foundation/ambassador",
+                "apply_url": "https://arbitrum.foundation/ambassador"
+            }
         }
     ]
 }
