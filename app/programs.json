@@ -580,6 +580,91 @@
                 "announcement_url": "https://arbitrum.foundation/ambassador",
                 "apply_url": "https://arbitrum.foundation/ambassador"
             }
+        },
+        {
+            "id": "quillaudits_ai",
+            "name": "QuillAudits",
+            "logo": "https://pbs.twimg.com/profile_images/2008837129741508608/xeZxuh0j.jpg",
+            "status": "active",
+            "category": "Security",
+            "socials": {
+                "website": "https://www.quillaudits.com/",
+                "twitter": "https://twitter.com/QuillAudits_AI",
+                "discord": "https://discord.gg/C6M2eQZagw"
+            },
+            "details": {
+                "description": "QuillAudits is a leading blockchain security auditor with 7+ years of experience, securing over 1M+ lines of code and 1400+ clients including StarkWare, Taiko, and ZetaChain, offering next-gen audits, KYC, and on-chain monitoring.",
+                "announcement_url": "https://www.quillaudits.com/ambassador-program",
+                "apply_url": "https://www.quillaudits.com/ambassador-program"
+            }
+        },
+        {
+            "id": "multiversx",
+            "name": "MultiversX",
+            "logo": "https://pbs.twimg.com/profile_images/1953134940301774848/UbIBbfXn.jpg",
+            "status": "active",
+            "category": "L1",
+            "socials": {
+                "website": "https://multiversx.com/",
+                "twitter": "https://twitter.com/MultiversX",
+                "discord": "https://discord.com/invite/multiversxbuilders"
+            },
+            "details": {
+                "description": "MultiversX is a highly scalable, secure, and green distributed blockchain network powered by adaptive state sharding, enabling next-gen decentralized applications with high throughput and low fees.",
+                "announcement_url": "https://multiversx.com/ambassadors",
+                "apply_url": "https://multiversx.com/ambassadors"
+            }
+        },
+        {
+            "id": "oasisprotocol",
+            "name": "Oasis Protocol",
+            "logo": "https://pbs.twimg.com/profile_images/1942334774112133120/nTL5sHOw.jpg",
+            "status": "active",
+            "category": "L1",
+            "socials": {
+                "website": "https://oasis.net/",
+                "twitter": "https://twitter.com/OasisProtocol",
+                "discord": "https://discord.com/invite/BQCxwhT5wS"
+            },
+            "details": {
+                "description": "Oasis Protocol is a privacy-enabled blockchain platform with confidential compute via Sapphire Paratime, empowering responsible data usage, Web3 privacy, and secure AI applications.",
+                "announcement_url": "https://oasis.net/blog/introducing-sentinels-ambassadors-program",
+                "apply_url": "https://oasisrose.garden/oasis-ambassador-program/"
+            }
+        },
+        {
+            "id": "moonbeamnetwork",
+            "name": "Moonbeam",
+            "logo": "https://pbs.twimg.com/profile_images/1932083343899963392/Ed7--Mad.jpg",
+            "status": "active",
+            "category": "L1",
+            "socials": {
+                "website": "https://moonbeam.network/",
+                "twitter": "https://twitter.com/MoonbeamNetwork",
+                "discord": "https://discord.com/invite/PfpUATX"
+            },
+            "details": {
+                "description": "Moonbeam is an Ethereum-compatible smart contract platform on Polkadot, providing seamless cross-chain interoperability, EVM support, and tools for building decentralized applications in a multi-chain ecosystem.",
+                "announcement_url": "https://moonbeam.network/community/ambassador",
+                "apply_url": "https://moonbeam.network/community/ambassador/apply"
+            }
+        },
+        {
+            "id": "farmstract",
+            "name": "Farmstract",
+            "logo": "https://pbs.twimg.com/profile_images/1979526838738194432/v_9xhr23.jpg",
+            "status": "active",
+            "category": "GameFi",
+            "socials": {
+                "website": "https://farmstract.xyz/",
+                "twitter": "https://twitter.com/farmstract",
+                "discord": null
+            },
+            "details": {
+                "description": "Farmstract is an on-chain farming GameFi experience built on AbstractChain, where players build farms, grow crops/animals, earn XP, and engage in blockchain-based gameplay with whitelist access and rewards.",
+                "announcement_url": "https://twitter.com/farmstract/status/2012612074342433089",
+                "apply_url": "https://docs.google.com/forms/d/e/1FAIpQLSfpMgk3JSdXYaxU9XhyD9I5sTd-Un7aTAojbfTli-tu_BKeng/viewform"
+            }
         }
     ]
 }
