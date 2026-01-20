@@ -665,6 +665,23 @@
                 "announcement_url": "https://twitter.com/farmstract/status/2012612074342433089",
                 "apply_url": "https://docs.google.com/forms/d/e/1FAIpQLSfpMgk3JSdXYaxU9XhyD9I5sTd-Un7aTAojbfTli-tu_BKeng/viewform"
             }
+        },
+        {
+            "id": "blend_money",
+            "name": "Blend",
+            "logo": "https://pbs.twimg.com/profile_images/1945338354767220736/FGSkD8V_.jpg",
+            "status": "active",
+            "category": "DeFi",
+            "socials": {
+                "website": "https://blend.money/",
+                "twitter": "https://twitter.com/blend_money",
+                "discord": "https://discord.gg/blendmoney"
+            },
+            "details": {
+                "description": "Blend is a programmable savings layer for DeFi, handling complexity so users can easily save, earn yield (starting ~8% on USDC), and bridge local currencies to global equity markets with full custody and no lock-ups.",
+                "announcement_url": "https://twitter.com/blend_money/status/2013301287052366211",
+                "apply_url": "https://docs.google.com/forms/d/e/1FAIpQLSfQTkY3t8VaHbVaN14vaiHuHZlnIZzHldcFqw8fHCqDSGbMAg/viewform"
+            }
         }
     ]
 }
