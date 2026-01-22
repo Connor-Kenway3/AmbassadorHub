@@ -1,20 +1,71 @@
 {
     "programs": [
         {
-            "id": "airaaagent",
-            "name": "Airaa",
-            "logo": "https://pbs.twimg.com/profile_images/2003400424184025088/W2VdY6WT.jpg",
+            "id": "tradehotstuff",
+            "name": "Hotstuff",
+            "logo": "https://pbs.twimg.com/profile_images/1989969985134104576/wrI1okZ5.png",
             "status": "active",
-            "category": "AI",
+            "category": "L1",
             "socials": {
-                "website": "https://airaa.xyz/",
-                "twitter": "https://twitter.com/AiraaAgent",
-                "discord": "https://discord.com/invite/CUFBNuJw7T"
+                "website": "https://hotstuff.trade/",
+                "twitter": "https://twitter.com/tradehotstuff",
+                "discord": "https://discord.com/invite/tradehotstuff"
             },
             "details": {
-                "description": "Airaa is a unified distribution platform helping brands to grow mindshare and onchain activity with AI.",
-                "announcement_url": "https://x.com/AiraaAgent/status/2010713156398850048",
-                "apply_url": "https://docs.google.com/forms/d/e/1FAIpQLSe6qyr6dHHSBcQTUfh36jXjZHBx7o46oVa8lr-oiuH6-lmlmQ/viewform"
+                "description": "Hotstuff is a DeFi-native Layer 1 blockchain with a high-performance on-chain order book and programmable finance routing layer, connecting trading to global fiat rails for seamless, confidential DeFi.",
+                "announcement_url": "https://twitter.com/tradehotstuff/status/2013623858285129948",
+                "apply_url": "https://docs.google.com/forms/d/e/1FAIpQLSd2K33IgeCyKNOLYGl6jk0DJSk1HVeh8iDBIAk-C4c2YrU_ew/viewform?usp=send_form"
+            }
+        },
+        {
+            "id": "trebleswap",
+            "name": "Treble",
+            "logo": "https://pbs.twimg.com/profile_images/1928181408838610945/AqG5pk7x.png",
+            "status": "active",
+            "category": "DeFi",
+            "socials": {
+                "website": "https://trebleswap.com/",
+                "twitter": "https://twitter.com/TrebleSwap",
+                "discord": null
+            },
+            "details": {
+                "description": "Treble is the first V4 DEX and DeFi Hub on Base, enabling launch, swap, farm, spend, and more with DeFAI features and native $TREB token for seamless on-chain trading and liquidity.",
+                "announcement_url": "https://twitter.com/TrebleSwap/status/2013388276170661929",
+                "apply_url": "https://treble.fillout.com/t/8xLaBSNnhKus"
+            }
+        },
+        {
+            "id": "stellar_wa",
+            "name": "Stellar Africa",
+            "logo": "https://pbs.twimg.com/profile_images/1800161800861679616/bjJFAt4e.jpg",
+            "status": "active",
+            "category": "Ecosystem",
+            "socials": {
+                "website": null,
+                "twitter": "https://twitter.com/Stellar_WA",
+                "discord": "https://discord.com/invite/zVYdY3ktTn"
+            },
+            "details": {
+                "description": "Stellar Africa builds and grows the Stellar ecosystem across West Africa, supporting local communities, events, education, and adoption of blockchain for payments and financial inclusion.",
+                "announcement_url": "https://twitter.com/Stellar_WA/status/2013265195469021295",
+                "apply_url": "https://airtable.com/appWdW69QmA0v16SM/pagLIW9lbEHzkWU4V/form"
+            }
+        },
+        {
+            "id": "gamereqofficial",
+            "name": "GameReq",
+            "logo": "https://pbs.twimg.com/profile_images/2001132787315957760/FoPX-W70.jpg",
+            "status": "active",
+            "category": "Gaming",
+            "socials": {
+                "website": "https://gamereq.io/",
+                "twitter": "https://twitter.com/GameReqOfficial",
+                "discord": null
+            },
+            "details": {
+                "description": "GameReq is a real-time payment layer for gaming and esports on Yellow, enabling micro-tips, sponsorships, instant creator payouts, and seamless monetization for gamers and streamers.",
+                "announcement_url": "https://twitter.com/GameReqOfficial/status/2013613746275729477",
+                "apply_url": "https://docs.google.com/forms/d/e/1FAIpQLSfz9DVuaPFkVrDcVstqEshnU2QVSQDZUILxyycyW965eqtr8w/viewform?usp=send_form"
             }
         },
         {
