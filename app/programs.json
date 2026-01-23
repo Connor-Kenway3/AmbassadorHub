@@ -1,6 +1,57 @@
 {
     "programs": [
         {
+            "id": "trize_io",
+            "name": "T-RIZE",
+            "logo": "https://pbs.twimg.com/profile_images/1853190625346441216/ZFydzs7N.jpg",
+            "status": "active",
+            "category": "RWA",
+            "socials": {
+                "website": "https://trize.io/",
+                "twitter": "https://twitter.com/trize_io",
+                "discord": "https://discord.com/invite/trize"
+            },
+            "details": {
+                "description": "T-RIZE is an institutional-grade RWA tokenization infrastructure platform combining machine learning with blockchain, enabling secure, compliant real-world asset tokenization; official member of Canton Network with $RIZE token listed on major exchanges like Kraken.",
+                "announcement_url": "https://twitter.com/trize_io/status/2014473148956029219",
+                "apply_url": "https://docs.google.com/forms/d/e/1FAIpQLSeSay1xwtiB59FzI27hAHmvSn7K_is5X6Pyw1-xCx-1afiC5g/viewform?usp=preview"
+            }
+        },
+        {
+            "id": "novastro_xyz",
+            "name": "Novastro",
+            "logo": "https://pbs.twimg.com/profile_images/1874405820466618368/fIXPJg_I.jpg",
+            "status": "active",
+            "category": "RWA",
+            "socials": {
+                "website": "https://novastro.xyz/",
+                "twitter": "https://twitter.com/Novastro_xyz",
+                "discord": null
+            },
+            "details": {
+                "description": "Novastro is a modular RWAfi layer powered by AI, Ethereum-aligned and scaling across Sui, Arbitrum, and Solana, allowing users to tokenize, trade, and earn yields on real-world assets with compliance-first infrastructure and $XNL token.",
+                "announcement_url": "https://twitter.com/Novastro_xyz/status/2014377092893573199",
+                "apply_url": "https://docs.google.com/forms/d/e/1FAIpQLSfQTkY3t8VaHbVaN14vaiHuHZlnIZzHldcFqw8fHCqDSGbMAg/viewform"
+            }
+        },
+        {
+            "id": "standx_official",
+            "name": "StandX",
+            "logo": "https://pbs.twimg.com/profile_images/2005237613246959616/UHa0DROv.jpg",
+            "status": "active",
+            "category": "DeFi",
+            "socials": {
+                "website": "https://standx.com/",
+                "twitter": "https://twitter.com/StandX_Official",
+                "discord": "https://discord.com/invite/standx"
+            },
+            "details": {
+                "description": "StandX is a perpetuals trading platform on BNB and Solana, featuring auto yield-bearing $DUSD collateral, public mainnet live with perps trading, points programs, and rewards for makers and traders.",
+                "announcement_url": "https://twitter.com/StandX_Official/status/2014637164479250810",
+                "apply_url": "https://docs.google.com/forms/d/e/1FAIpQLSfpnOUHxFHd7sUXVOuPPF1Sji_A1l9kVpcly0Uzg2oshNja9w/viewform"
+            }
+        },
+        {
             "id": "tradehotstuff",
             "name": "Hotstuff",
             "logo": "https://pbs.twimg.com/profile_images/1989969985134104576/wrI1okZ5.png",
