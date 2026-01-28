@@ -1,6 +1,159 @@
 {
     "programs": [
         {
+            "id": "shredfi",
+            "name": "SHRED",
+            "logo": "https://pbs.twimg.com/profile_images/1962567412114419712/J8D4iy-i.jpg",
+            "status": "active",
+            "category": "DeFi",
+            "socials": {
+                "website": "https://shred.fi/",
+                "twitter": "https://twitter.com/SHREDfi",
+                "discord": null
+            },
+            "details": {
+                "description": "SHRED is a high-yield savings protocol on Ethereum and Hyperliquid, enabling up to 15% APY on stablecoins via delta-neutral strategies with low risk and no trading required; early-stage with points system incoming.",
+                "announcement_url": "https://x.com/SHREDfi/status/2015794142560035008",
+                "apply_url": "https://shredfi.typeform.com/shred"
+            }
+        },
+        {
+            "id": "doublezero",
+            "name": "DoubleZero",
+            "logo": "https://pbs.twimg.com/profile_images/1895599744740687872/0by1kVMF.png",
+            "status": "active",
+            "category": "Infrastructure",
+            "socials": {
+                "website": "https://doublezero.xyz/",
+                "twitter": "https://twitter.com/doublezero",
+                "discord": "https://discord.com/invite/doublezerotech"
+            },
+            "details": {
+                "description": "DoubleZero is building a dedicated internet layer optimized for blockchains, crypto, AI, and real-time applications with high performance and low latency; raised significant funding for scalable on-chain infrastructure.",
+                "announcement_url": "https://twitter.com/doublezero/status/2015809190032224386",
+                "apply_url": "https://airtable.com/appOmC1gJIOnsQMZj/pagzCBxHPv4c3VBHN/form"
+            }
+        },
+        {
+            "id": "aquacoinx",
+            "name": "AquacoinX",
+            "logo": "https://pbs.twimg.com/profile_images/1939589196022165504/fNO5zqqn.jpg",
+            "status": "active",
+            "category": "Meme",
+            "socials": {
+                "website": "https://linktr.ee/aquacoins",
+                "twitter": "https://twitter.com/aquacoinx",
+                "discord": null
+            },
+            "details": {
+                "description": "AquacoinX is a fast-growing meme/digital asset on TON blockchain, focused on tokenizing daily utilities with community-driven growth, exclusive ambassador slots, and rewards for promoters.",
+                "announcement_url": "https://x.com/aquacoinx/status/2016183373903835179",
+                "apply_url": "https://x.com/aquacoinx/status/2016183373903835179"
+            }
+        },
+        {
+            "id": "gohome_token",
+            "name": "GoHome",
+            "logo": "https://pbs.twimg.com/profile_images/1996239070540795904/2rEUnfwC.jpg",
+            "status": "active",
+            "category": "Meme",
+            "socials": {
+                "website": "https://gohome.org/",
+                "twitter": "https://twitter.com/GoHome_Token",
+                "discord": "https://discord.com/invite/y5MQ5SQV9m"
+            },
+            "details": {
+                "description": "GoHome is a community-driven meme token on Solana emphasizing fun, long-term cult narratives, zero toxicity, and rewards through staking, trading, memes, contests, and NFT drops.",
+                "announcement_url": "https://x.com/GoHome_Token/status/2003027120465858573",
+                "apply_url": "https://docs.google.com/forms/d/e/1FAIpQLSf-xiaN3JJqFX9MWSQz74l7wh7moNOBhN7NTUh_4x5P2xFrOg/viewform?usp=header"
+            }
+        },
+        {
+            "id": "gbm_auction",
+            "name": "GBM Auctions",
+            "logo": "https://pbs.twimg.com/profile_images/1930239358818279424/oCVvRIa-.jpg",
+            "status": "active",
+            "category": "NFT",
+            "socials": {
+                "website": "https://web3.gbm.auction/",
+                "twitter": "https://twitter.com/GBMauction",
+                "discord": "https://discord.com/invite/gbmauction"
+            },
+            "details": {
+                "description": "GBM is a win-win auction system where outbid bidders earn rewards; processed $200M+ in volume with $6M+ earned by participants, focused on fair NFT and asset auctions.",
+                "announcement_url": "https://twitter.com/GBMauction/status/2016420504866013343",
+                "apply_url": "https://docs.google.com/forms/d/e/1FAIpQLScfSkVy9AquT0BrLT1Cbv2WRAomx_oSyzd4cK2etxK1UMY7Aw/viewform?usp=header"
+            }
+        },
+        {
+            "id": "xyralabs_",
+            "name": "Xyra Labs",
+            "logo": null,
+            "status": "active",
+            "category": "DeFi",
+            "socials": {
+                "website": "https://www.xyra.trade/",
+                "twitter": "https://twitter.com/xyralabs_",
+                "discord": "https://discord.com/invite/zgMJEgVt38"
+            },
+            "details": {
+                "description": "Xyra Labs is building a user-focused DeFi super app with cross-chain swaps, on-chain perpetuals, and accessible finance tools; the Xyra Consortium invites contributors for content, events, dev, and ecosystem growth.",
+                "announcement_url": "https://x.com/xyralabs_/status/2016120350590042596",
+                "apply_url": "https://xyralabs.fillout.com/xyraconsortium"
+            }
+        },
+        {
+            "id": "concordium",
+            "name": "Concordium",
+            "logo": "https://pbs.twimg.com/profile_images/2014032336199790592/QH_aVmdB.jpg",
+            "status": "active",
+            "category": "L1",
+            "socials": {
+                "website": "https://concordium.com/",
+                "twitter": "https://x.com/Concordium",
+                "discord": "https://discord.com/invite/GpKGE2hCFx"
+            },
+            "details": {
+                "description": "Concordium is a privacy-focused Layer-1 blockchain for trust, identity, compliance, and real-world adoption; expanding global communities with ambassadors, regional mods, and builders.",
+                "announcement_url": "https://x.com/ConcordiumHub/status/2014275861462016071",
+                "apply_url": "https://docs.google.com/forms/d/e/1FAIpQLSekzULpc11zs9EWRGfhRK0hzKmyclTJIQ4F7lTfD4o9lO3AcQ/viewform"
+            }
+        },
+        {
+            "id": "upscaletrade",
+            "name": "Upscale Trade",
+            "logo": "https://pbs.twimg.com/profile_images/2013603580192735232/l423-V4c.jpg",
+            "status": "active",
+            "category": "Trading",
+            "socials": {
+                "website": "https://upscale.trade/",
+                "twitter": "https://twitter.com/UpscaleTrade",
+                "discord": "https://discord.gg/upscale"
+            },
+            "details": {
+                "description": "Upscale Trade is a prop trading platform for crypto, forex, and commodities, offering up to $200K in trading capital with profit retention; community-focused growth.",
+                "announcement_url": "https://x.com/UpscaleTrade/status/2014411059122098526",
+                "apply_url": "https://docs.google.com/forms/d/e/1FAIpQLSdir6PGa3d3qWD2RHcEqyzpmAVUJWa6lp9jOCXpzDsKv-qFjg/viewform"
+            }
+        },
+        {
+            "id": "venusprotocol",
+            "name": "Venus Protocol",
+            "logo": null,
+            "status": "active",
+            "category": "DeFi",
+            "socials": {
+                "website": "https://venus.io/",
+                "twitter": "https://twitter.com/VenusProtocol",
+                "discord": null
+            },
+            "details": {
+                "description": "Venus Protocol is an open-source money market infrastructure on BNB Chain, enabling lending, borrowing, and DeFi innovations with flux updates and cross-chain features.",
+                "announcement_url": "https://x.com/VenusStars_io/status/2014699643746320703",
+                "apply_url": "https://docs.google.com/forms/d/e/1FAIpQLSfhdvnB2FQp9sL3rSVlNkdJJVmpbRvDuC5BQRuGkHX7_PiHmw/viewform"
+            }
+        },
+        {
             "id": "trize_io",
             "name": "T-RIZE",
             "logo": "https://pbs.twimg.com/profile_images/1853190625346441216/ZFydzs7N.jpg",
