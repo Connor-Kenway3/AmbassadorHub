@@ -224,7 +224,7 @@
         {
             "id": "xyralabs_",
             "name": "Xyra Labs",
-            "logo": null,
+            "logo": "https://pbs.twimg.com/profile_images/1973453149617946624/P0GSGkTF_400x400.jpg",
             "status": "active",
             "category": "DeFi",
             "socials": {
@@ -275,7 +275,7 @@
         {
             "id": "venusprotocol",
             "name": "Venus Protocol",
-            "logo": null,
+            "logo": "https://pbs.twimg.com/profile_images/1942208446868185088/YbdsNx5f_400x400.jpg",
             "status": "active",
             "category": "DeFi",
             "socials": {
@@ -320,7 +320,7 @@
             "details": {
                 "description": "Novastro is a modular RWAfi layer powered by AI, Ethereum-aligned and scaling across Sui, Arbitrum, and Solana, allowing users to tokenize, trade, and earn yields on real-world assets with compliance-first infrastructure and $XNL token.",
                 "announcement_url": "https://twitter.com/Novastro_xyz/status/2014377092893573199",
-                "apply_url": "https://docs.google.com/forms/d/e/1FAIpQLSfQTkY3t8VaHbVaN14vaiHuHZlnIZzHldcFqw8fHCqDSGbMAg/viewform"
+                "apply_url": "https://docs.google.com/forms/d/e/1FAIpQLSewEoB_8whzYnE03vckyYdqMlfpujBZHgHR61TIrWnoSq7kCQ/viewform?usp=send_form"
             }
         },
         {
@@ -514,23 +514,6 @@
             }
         },
         {
-            "id": "flow_blockchain",
-            "name": "Flow",
-            "logo": "https://pbs.twimg.com/profile_images/1928495609608286209/uhYIxY6U.jpg",
-            "status": "active",
-            "category": "L1",
-            "socials": {
-                "website": "https://flow.com",
-                "twitter": "https://twitter.com/flow_blockchain",
-                "discord": "https://discord.com/invite/flow"
-            },
-            "details": {
-                "description": "Flow is the home of consumer DeFi, where mature DeFi meets consumer UX.",
-                "announcement_url": "https://flow.com/flow-ambassador-program",
-                "apply_url": "https://flow.com/flow-ambassador-program"
-            }
-        },
-        {
             "id": "nexo",
             "name": "Nexo",
             "logo": "https://pbs.twimg.com/profile_images/1851979907858939904/W6rmWAvR.jpg",
@@ -562,57 +545,6 @@
                 "description": "Hedera is an enterprise-grade public network built on hashgraph consensus.",
                 "announcement_url": "https://hedera.com/ambassador-program/",
                 "apply_url": "https://hedera.com/ambassador-program/"
-            }
-        },
-        {
-            "id": "seedlicapital",
-            "name": "Seedli Capital",
-            "logo": "https://pbs.twimg.com/profile_images/1970650171781296128/i7ogUaOc.jpg",
-            "status": "active",
-            "category": "Finance",
-            "socials": {
-                "website": "https://www.seedlicapital.com/",
-                "twitter": "https://twitter.com/SeedliCapital",
-                "discord": "https://discord.com/invite/SeedliCapital"
-            },
-            "details": {
-                "description": "Seedli Capital is the first decentralized hedge fund investing in RWA and AI.",
-                "announcement_url": "https://x.com/SeedliCapital/status/2010751598050623794",
-                "apply_url": "https://docs.google.com/forms/d/e/1FAIpQLScv5gJxdCLlv9FHZE15Tft4lhqVfkZZg_0CXz3tQINTRJXhdQ/viewform"
-            }
-        },
-        {
-            "id": "cicadafinance",
-            "name": "Cicada",
-            "logo": "https://pbs.twimg.com/profile_images/1937505471512154112/5e8N9Nte.jpg",
-            "status": "active",
-            "category": "Finance",
-            "socials": {
-                "website": "https://cicada.finance/",
-                "twitter": "https://twitter.com/CicadaFinance",
-                "discord": "https://discord.com/invite/cicadafinance"
-            },
-            "details": {
-                "description": "Cicada is a tech issuance and onchain asset management platform offering institution-grade hybrid yield products onchain.",
-                "announcement_url": "https://twitter.com/CicadaFinance",
-                "apply_url": "https://docs.google.com/forms/d/e/1FAIpQLSetv_DO_vC-VWL6_SPWpej1WQJoi7ekO2QKjmIy60GoWIOsKQ/viewform?usp=send_form"
-            }
-        },
-        {
-            "id": "oroswap",
-            "name": "Oroswap",
-            "logo": "https://pbs.twimg.com/profile_images/1996170207635664896/7fYOXf8-.jpg",
-            "status": "active",
-            "category": "DeFi",
-            "socials": {
-                "website": "https://www.oroswap.org/",
-                "twitter": "https://twitter.com/oroswap",
-                "discord": "https://discord.com/invite/FSx6sCg7"
-            },
-            "details": {
-                "description": "Oroswap is the first AI-powered DEX on ZIGChain, enabling seamless trading of RWAs and crypto.",
-                "announcement_url": "https://x.com/oroswap/status/2012168742034350548",
-                "apply_url": "https://forms.gle/3xAEMQZ2EJA5AcDp7"
             }
         },
         {
@@ -1055,23 +987,6 @@
                 "description": "Farmstract is an on-chain farming GameFi experience built on AbstractChain, where players build farms, grow crops/animals, earn XP, and engage in blockchain-based gameplay with whitelist access and rewards.",
                 "announcement_url": "https://twitter.com/farmstract/status/2012612074342433089",
                 "apply_url": "https://docs.google.com/forms/d/e/1FAIpQLSfpMgk3JSdXYaxU9XhyD9I5sTd-Un7aTAojbfTli-tu_BKeng/viewform"
-            }
-        },
-        {
-            "id": "blend_money",
-            "name": "Blend",
-            "logo": "https://pbs.twimg.com/profile_images/1945338354767220736/FGSkD8V_.jpg",
-            "status": "active",
-            "category": "DeFi",
-            "socials": {
-                "website": "https://blend.money/",
-                "twitter": "https://twitter.com/blend_money",
-                "discord": "https://discord.gg/blendmoney"
-            },
-            "details": {
-                "description": "Blend is a programmable savings layer for DeFi, handling complexity so users can easily save, earn yield (starting ~8% on USDC), and bridge local currencies to global equity markets with full custody and no lock-ups.",
-                "announcement_url": "https://twitter.com/blend_money/status/2013301287052366211",
-                "apply_url": "https://docs.google.com/forms/d/e/1FAIpQLSfQTkY3t8VaHbVaN14vaiHuHZlnIZzHldcFqw8fHCqDSGbMAg/viewform"
             }
         }
     ]
