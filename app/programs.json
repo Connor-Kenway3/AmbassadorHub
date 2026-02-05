@@ -1,6 +1,142 @@
 {
     "programs": [
         {
+            "id": "evervaluecoin",
+            "name": "EverValue Coin",
+            "logo": "https://pbs.twimg.com/profile_images/1810756431496323072/v1M1iaIA.jpg",
+            "status": "active",
+            "category": "RWA",
+            "socials": {
+                "website": "https://evervaluecoin.com/",
+                "twitter": "https://twitter.com/EverValueCoin",
+                "discord": null
+            },
+            "details": {
+                "description": "EverValue Coin (EVA) is a token backed by Bitcoin mining infrastructure, with daily increasing backing and real-world utility through transparent operations and global expansion.",
+                "announcement_url": "https://x.com/EverValueCoin/status/2019149892493660180",
+                "apply_url": "https://forms.gle/4AoABgbCiatLLiKEA"
+            }
+        },
+        {
+            "id": "chance_",
+            "name": "Chance",
+            "logo": "https://pbs.twimg.com/profile_images/2001455742738436096/ZylCbw5Y.jpg",
+            "status": "active",
+            "category": "Prediction Market",
+            "socials": {
+                "website": "https://chance.cc/",
+                "twitter": "https://twitter.com/chance_",
+                "discord": null
+            },
+            "details": {
+                "description": "Chance is a perpetual learner and thinker focused on understanding how and why things work; not primarily crypto-focused but occasionally engages with tech and innovation discussions.",
+                "announcement_url": "https://x.com/Chance_/status/2019146726234259476",
+                "apply_url": "https://docs.google.com/forms/d/e/1FAIpQLSdDMpzMo2sjMgRqYfpYUrnucfF8IVg-t31wpDymqDWfbh6rog/viewform?usp=send_form"
+            }
+        },
+        {
+            "id": "predictbase",
+            "name": "PredictBase",
+            "logo": "https://pbs.twimg.com/profile_images/1996763276529848320/kB3OaQo5.jpg",
+            "status": "active",
+            "category": "Prediction Market",
+            "socials": {
+                "website": "https://predictbase.app/",
+                "twitter": "https://twitter.com/PredictBase",
+                "discord": "https://discord.com/invite/QDp7zqesgt"
+            },
+            "details": {
+                "description": "PredictBase is a decentralized prediction market platform on Base, featuring AI agents like @predibot_
+ and $PREDI token for betting on real-world events with community-driven outcomes.","announcement_url": "https://x.com/PredictBase/status/2019175719142887481",
+                "apply_url": "https://docs.google.com/forms/d/e/1FAIpQLSe-MTzv-g7ck8W5n9Sq7Ac-q35VjDwHIMOo8UHoXngI8K39cA/viewform?usp=send_form"
+            }
+        },
+        {
+            "id": "byzanlink",
+            "name": "Byzanlink",
+            "logo": "https://pbs.twimg.com/profile_images/1932454211733602304/UEUOIGxn.jpg",
+            "status": "active",
+            "category": "RWA",
+            "socials": {
+                "website": "https://byzanlink.com/",
+                "twitter": "https://twitter.com/byzanlink",
+                "discord": "https://discord.com/invite/byzanlink"
+            },
+            "details": {
+                "description": "Byzanlink is an RWA tokenization platform bridging DeFi and TradFi, backed by Outlier Ventures and NTDPSA, enabling secure, programmable real-world asset yield and on-chain capital markets.",
+                "announcement_url": "https://x.com/byzanlink/status/2018339576314781739",
+                "apply_url": "https://docs.google.com/forms/d/e/1FAIpQLSfNcoNQCdehG0ZORHfb6v0h4tBgyh_uVKYxlpjA4K-Awv0lEw/viewform?usp=send_form"
+            }
+        },
+        {
+            "id": "lfwallet",
+            "name": "LF Wallet",
+            "logo": "https://pbs.twimg.com/profile_images/2015179096423317504/_cshQeC_.jpg",
+            "status": "active",
+            "category": "Wallet",
+            "socials": {
+                "website": "https://lfwallet.com/",
+                "twitter": "https://twitter.com/LFWallet",
+                "discord": null
+            },
+            "details": {
+                "description": "LF Wallet is a one-stop non-custodial wallet for managing on-chain assets, offering seamless access to DeFi, NFTs, and multi-chain support in a user-friendly interface.",
+                "announcement_url": "https://x.com/LFWallet/status/2018668851500814378",
+                "apply_url": "https://forms.gle/Ech2K1whVxMRo4sq9"
+            }
+        },
+        {
+            "id": "w3ggofficial",
+            "name": "W3GG",
+            "logo": "https://pbs.twimg.com/profile_images/1975193783638884352/VRj1RPHt.jpg",
+            "status": "active",
+            "category": "Gaming",
+            "socials": {
+                "website": "https://w3gg.io/",
+                "twitter": "https://twitter.com/w3ggofficial",
+                "discord": null
+            },
+            "details": {
+                "description": "W3GG is a decentralized gaming protocol empowering gamers with blockchain rewards, true digital ownership, play-to-earn mechanics, and community governance.",
+                "announcement_url": "https://x.com/w3ggofficial/status/2011031807391838439",
+                "apply_url": "https://docs.google.com/forms/d/e/1FAIpQLScsKoZxu-6587Aqp0KWTduYlJoFkNGiZgUko6Y2z0MmasTSuQ/viewform?usp=send_form"
+            }
+        },
+        {
+            "id": "gemewallet",
+            "name": "Geme Wallet",
+            "logo": "https://pbs.twimg.com/profile_images/1974134433713201152/3hqvcvnj.jpg",
+            "status": "active",
+            "category": "Wallet",
+            "socials": {
+                "website": "https://gemewallet.com/en",
+                "twitter": "https://twitter.com/GemeWallet",
+                "discord": null
+            },
+            "details": {
+                "description": "Geme Wallet is a non-custodial wallet available in Telegram and web, providing easy Web3 access, freedom, and management of assets in one app.",
+                "announcement_url": "https://x.com/GemeWallet/status/2016556737549987981",
+                "apply_url": "https://picayune-hemisphere-882.notion.site/GEME-Creator-Ambassador-Program-Season-2-2f56fb6397888049bb93da5bf4611009"
+            }
+        },
+        {
+            "id": "cyfrinupdraft",
+            "name": "Cyfrin Updraft",
+            "logo": "https://pbs.twimg.com/profile_images/1846898714473873408/dIoLAiZJ.jpg",
+            "status": "active",
+            "category": "Education",
+            "socials": {
+                "website": "https://updraft.cyfrin.io/",
+                "twitter": "https://twitter.com/CyfrinUpdraft",
+                "discord": null
+            },
+            "details": {
+                "description": "Cyfrin Updraft offers free, high-quality smart contract development and security courses (150+ hours) to train the next generation of Web3 developers, powered by Cyfrin.",
+                "announcement_url": "https://x.com/CyfrinUpdraft/status/2017956573985787996",
+                "apply_url": "https://cyfrin.typeform.com/to/w6M4Z4iy"
+            }
+        },
+        {
             "id": "shredfi",
             "name": "SHRED",
             "logo": "https://pbs.twimg.com/profile_images/1962567412114419712/J8D4iy-i.jpg",
