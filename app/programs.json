@@ -1,6 +1,57 @@
 {
     "programs": [
         {
+            "id": "solsticefi",
+            "name": "Solstice",
+            "logo": "https://pbs.twimg.com/profile_images/1916876277388046337/Qny5yRI2.png",
+            "status": "active",
+            "category": "DeFi",
+            "socials": {
+                "website": "https://solstice.finance/",
+                "twitter": "https://twitter.com/solsticefi",
+                "discord": "https://discord.gg/TSmeMaYty2"
+            },
+            "details": {
+                "description": "Solstice is a Solana-native DeFi protocol offering $USX stablecoin and YieldVault with delta-neutral strategies for sustainable, high-yield returns on stable assets.",
+                "announcement_url": "https://x.com/solsticefi/status/2019440979044934065",
+                "apply_url": "https://docs.google.com/forms/d/e/1FAIpQLSfU_i0qJTDx__qvO0m3IvewOwt2pZje_R84qOGtNN5eyQ6Apw/viewform"
+            }
+        },
+        {
+            "id": "bitrobotnetwork",
+            "name": "BitRobot Network",
+            "logo": "https://pbs.twimg.com/profile_images/1944823840762138624/OIse8VTq.png",
+            "status": "active",
+            "category": "AI",
+            "socials": {
+                "website": "https://bitrobot.ai/",
+                "twitter": "https://twitter.com/BitRobotNetwork",
+                "discord": "https://discord.com/invite/35q4HrekGt"
+            },
+            "details": {
+                "description": "BitRobot Network is an open robotics network accelerating embodied AI breakthroughs by combining people, robots, and computing power for decentralized robot training and validation.",
+                "announcement_url": "https://x.com/BitRobotNetwork/status/2019810487735918751",
+                "apply_url": "https://app.youform.com/forms/omzetnvh"
+            }
+        },
+        {
+            "id": "incentiv_net",
+            "name": "Incentiv",
+            "logo": "https://pbs.twimg.com/profile_images/1833098535283081216/pFtIGwsm.jpg",
+            "status": "active",
+            "category": "L1",
+            "socials": {
+                "website": "https://incentiv.io/",
+                "twitter": "https://twitter.com/Incentiv_net",
+                "discord": "https://discord.com/invite/incentiv"
+            },
+            "details": {
+                "description": "Incentiv is an efficient, simple, and impactful Layer 1 blockchain where every action counts, focusing on real usage, aligned incentives, and community-driven growth.",
+                "announcement_url": "https://x.com/Incentiv_net/status/2016505086944616792",
+                "apply_url": "https://discord.com/invite/incentiv"
+            }
+        },
+        {
             "id": "evervaluecoin",
             "name": "EverValue Coin",
             "logo": "https://pbs.twimg.com/profile_images/1810756431496323072/v1M1iaIA.jpg",
