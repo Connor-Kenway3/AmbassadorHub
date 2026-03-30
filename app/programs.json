@@ -137,74 +137,6 @@
             }
         },
         {
-            "id": "w3ggofficial",
-            "name": "W3GG",
-            "logo": "https://pbs.twimg.com/profile_images/1975193783638884352/VRj1RPHt.jpg",
-            "status": "active",
-            "category": "Gaming",
-            "socials": {
-                "website": "https://w3gg.io/",
-                "twitter": "https://twitter.com/w3ggofficial",
-                "discord": null
-            },
-            "details": {
-                "description": "W3GG is a decentralized gaming protocol empowering gamers with blockchain rewards, true digital ownership, play-to-earn mechanics, and community governance.",
-                "announcement_url": "https://x.com/w3ggofficial/status/2011031807391838439",
-                "apply_url": "https://docs.google.com/forms/d/e/1FAIpQLScsKoZxu-6587Aqp0KWTduYlJoFkNGiZgUko6Y2z0MmasTSuQ/viewform?usp=send_form"
-            }
-        },
-        {
-            "id": "gemewallet",
-            "name": "Geme Wallet",
-            "logo": "https://pbs.twimg.com/profile_images/1974134433713201152/3hqvcvnj.jpg",
-            "status": "active",
-            "category": "Wallet",
-            "socials": {
-                "website": "https://gemewallet.com/en",
-                "twitter": "https://twitter.com/GemeWallet",
-                "discord": null
-            },
-            "details": {
-                "description": "Geme Wallet is a non-custodial wallet available in Telegram and web, providing easy Web3 access, freedom, and management of assets in one app.",
-                "announcement_url": "https://x.com/GemeWallet/status/2016556737549987981",
-                "apply_url": "https://picayune-hemisphere-882.notion.site/GEME-Creator-Ambassador-Program-Season-2-2f56fb6397888049bb93da5bf4611009"
-            }
-        },
-        {
-            "id": "cyfrinupdraft",
-            "name": "Cyfrin Updraft",
-            "logo": "https://pbs.twimg.com/profile_images/1846898714473873408/dIoLAiZJ.jpg",
-            "status": "active",
-            "category": "Education",
-            "socials": {
-                "website": "https://updraft.cyfrin.io/",
-                "twitter": "https://twitter.com/CyfrinUpdraft",
-                "discord": null
-            },
-            "details": {
-                "description": "Cyfrin Updraft offers free, high-quality smart contract development and security courses (150+ hours) to train the next generation of Web3 developers, powered by Cyfrin.",
-                "announcement_url": "https://x.com/CyfrinUpdraft/status/2017956573985787996",
-                "apply_url": "https://cyfrin.typeform.com/to/w6M4Z4iy"
-            }
-        },
-        {
-            "id": "shredfi",
-            "name": "SHRED",
-            "logo": "https://pbs.twimg.com/profile_images/1962567412114419712/J8D4iy-i.jpg",
-            "status": "active",
-            "category": "DeFi",
-            "socials": {
-                "website": "https://shred.fi/",
-                "twitter": "https://twitter.com/SHREDfi",
-                "discord": null
-            },
-            "details": {
-                "description": "SHRED is a high-yield savings protocol on Ethereum and Hyperliquid, enabling up to 15% APY on stablecoins via delta-neutral strategies with low risk and no trading required; early-stage with points system incoming.",
-                "announcement_url": "https://x.com/SHREDfi/status/2015794142560035008",
-                "apply_url": "https://shredfi.typeform.com/shred"
-            }
-        },
-        {
             "id": "doublezero",
             "name": "DoubleZero",
             "logo": "https://pbs.twimg.com/profile_images/1895599744740687872/0by1kVMF.png",
@@ -219,23 +151,6 @@
                 "description": "DoubleZero is building a dedicated internet layer optimized for blockchains, crypto, AI, and real-time applications with high performance and low latency; raised significant funding for scalable on-chain infrastructure.",
                 "announcement_url": "https://twitter.com/doublezero/status/2015809190032224386",
                 "apply_url": "https://airtable.com/appOmC1gJIOnsQMZj/pagzCBxHPv4c3VBHN/form"
-            }
-        },
-        {
-            "id": "aquacoinx",
-            "name": "AquacoinX",
-            "logo": "https://pbs.twimg.com/profile_images/1939589196022165504/fNO5zqqn.jpg",
-            "status": "active",
-            "category": "Meme",
-            "socials": {
-                "website": "https://linktr.ee/aquacoins",
-                "twitter": "https://twitter.com/aquacoinx",
-                "discord": null
-            },
-            "details": {
-                "description": "AquacoinX is a fast-growing meme/digital asset on TON blockchain, focused on tokenizing daily utilities with community-driven growth, exclusive ambassador slots, and rewards for promoters.",
-                "announcement_url": "https://x.com/aquacoinx/status/2016183373903835179",
-                "apply_url": "https://x.com/aquacoinx/status/2016183373903835179"
             }
         },
         {
@@ -273,23 +188,6 @@
             }
         },
         {
-            "id": "xyralabs_",
-            "name": "Xyra Labs",
-            "logo": "https://pbs.twimg.com/profile_images/1973453149617946624/P0GSGkTF_400x400.jpg",
-            "status": "active",
-            "category": "DeFi",
-            "socials": {
-                "website": "https://www.xyra.trade/",
-                "twitter": "https://twitter.com/xyralabs_",
-                "discord": "https://discord.com/invite/zgMJEgVt38"
-            },
-            "details": {
-                "description": "Xyra Labs is building a user-focused DeFi super app with cross-chain swaps, on-chain perpetuals, and accessible finance tools; the Xyra Consortium invites contributors for content, events, dev, and ecosystem growth.",
-                "announcement_url": "https://x.com/xyralabs_/status/2016120350590042596",
-                "apply_url": "https://xyralabs.fillout.com/xyraconsortium"
-            }
-        },
-        {
             "id": "concordium",
             "name": "Concordium",
             "logo": "https://pbs.twimg.com/profile_images/1978442388143054848/o-meSVuS.png",
@@ -304,23 +202,6 @@
                 "description": "Concordium is a privacy-focused Layer-1 blockchain for trust, identity, compliance, and real-world adoption; expanding global communities with ambassadors, regional mods, and builders.",
                 "announcement_url": "https://x.com/ConcordiumHub/status/2014275861462016071",
                 "apply_url": "https://docs.google.com/forms/d/e/1FAIpQLSekzULpc11zs9EWRGfhRK0hzKmyclTJIQ4F7lTfD4o9lO3AcQ/viewform"
-            }
-        },
-        {
-            "id": "upscaletrade",
-            "name": "Upscale Trade",
-            "logo": "https://pbs.twimg.com/profile_images/2013603580192735232/l423-V4c.jpg",
-            "status": "active",
-            "category": "Trading",
-            "socials": {
-                "website": "https://upscale.trade/",
-                "twitter": "https://twitter.com/UpscaleTrade",
-                "discord": "https://discord.gg/upscale"
-            },
-            "details": {
-                "description": "Upscale Trade is a prop trading platform for crypto, forex, and commodities, offering up to $200K in trading capital with profit retention; community-focused growth.",
-                "announcement_url": "https://x.com/UpscaleTrade/status/2014411059122098526",
-                "apply_url": "https://docs.google.com/forms/d/e/1FAIpQLSdir6PGa3d3qWD2RHcEqyzpmAVUJWa6lp9jOCXpzDsKv-qFjg/viewform"
             }
         },
         {
@@ -440,23 +321,6 @@
                 "description": "Stellar Africa builds and grows the Stellar ecosystem across West Africa, supporting local communities, events, education, and adoption of blockchain for payments and financial inclusion.",
                 "announcement_url": "https://twitter.com/Stellar_WA/status/2013265195469021295",
                 "apply_url": "https://airtable.com/appWdW69QmA0v16SM/pagLIW9lbEHzkWU4V/form"
-            }
-        },
-        {
-            "id": "gamereqofficial",
-            "name": "GameReq",
-            "logo": "https://pbs.twimg.com/profile_images/2001132787315957760/FoPX-W70.jpg",
-            "status": "active",
-            "category": "Gaming",
-            "socials": {
-                "website": "https://gamereq.io/",
-                "twitter": "https://twitter.com/GameReqOfficial",
-                "discord": null
-            },
-            "details": {
-                "description": "GameReq is a real-time payment layer for gaming and esports on Yellow, enabling micro-tips, sponsorships, instant creator payouts, and seamless monetization for gamers and streamers.",
-                "announcement_url": "https://twitter.com/GameReqOfficial/status/2013613746275729477",
-                "apply_url": "https://docs.google.com/forms/d/e/1FAIpQLSfz9DVuaPFkVrDcVstqEshnU2QVSQDZUILxyycyW965eqtr8w/viewform?usp=send_form"
             }
         },
         {
@@ -667,23 +531,6 @@
             }
         },
         {
-            "id": "kimberlitetoken",
-            "name": "KimberLite Token",
-            "logo": "https://pbs.twimg.com/profile_images/1979441895441915904/iuvWDoJN.jpg",
-            "status": "active",
-            "category": "RWA",
-            "socials": {
-                "website": "https://kimbertoken.com/",
-                "twitter": "https://twitter.com/KimberLiteToken",
-                "discord": "https://discord.com/invite/AtFhgnC7f4"
-            },
-            "details": {
-                "description": "KimberLite Token brings the world of rough diamond investing on-chain with decentralized diamond deals.",
-                "announcement_url": "https://x.com/KimberliteToken/status/1999056567153430809",
-                "apply_url": "https://kimberlite-token.gitbook.io/kimberlite-ambassadors"
-            }
-        },
-        {
             "id": "pivx",
             "name": "PIVX",
             "logo": "https://pbs.twimg.com/profile_images/2008332329849102336/GOmomcLO.png",
@@ -888,40 +735,6 @@
             }
         },
         {
-            "id": "spaace_io",
-            "name": "Spaace",
-            "logo": "https://pbs.twimg.com/profile_images/1651202265405898753/6PanR3uY.jpg",
-            "status": "active",
-            "category": "NFT",
-            "socials": {
-                "website": "https://spaace.io",
-                "twitter": "https://twitter.com/spaace_io",
-                "discord": "https://discord.com/invite/G8vftE95Nt"
-            },
-            "details": {
-                "description": "Spaace is the fastest-growing, community-driven NFT marketplace with gamified trading, real rewards, XP leaderboards, and 100% revenue sharing in ETH for stakers.",
-                "announcement_url": "https://twitter.com/spaace_io/status/2012533263903154331",
-                "apply_url": "https://spaace.io/rewards/referral-ambassador"
-            }
-        },
-        {
-            "id": "rozoai",
-            "name": "ROZO",
-            "logo": "https://pbs.twimg.com/profile_images/1907318432514859008/nPR-2TpI.jpg",
-            "status": "active",
-            "category": "Payment",
-            "socials": {
-                "website": "https://rozo.ai/",
-                "twitter": "https://twitter.com/ROZOai",
-                "discord": "https://discord.com/invite/acVXehZQtP"
-            },
-            "details": {
-                "description": "ROZO provides Visa for Crypto with an intent-based Payment API for seamless crypto-native checkout, aiming to increase the GDP of Crypto.",
-                "announcement_url": "https://twitter.com/ROZOai/status/2006270345771377041",
-                "apply_url": "https://medium.com/@sky_22052/rozo-ambassador-program-exit-the-old-economy-b56568253d3f"
-            }
-        },
-        {
             "id": "trylimitless",
             "name": "Limitless",
             "logo": "https://pbs.twimg.com/profile_images/1933055667524239360/mqiIx1cj.jpg",
@@ -1022,23 +835,7 @@
                 "announcement_url": "https://moonbeam.network/community/ambassador",
                 "apply_url": "https://moonbeam.network/community/ambassador/apply"
             }
-        },
-        {
-            "id": "farmstract",
-            "name": "Farmstract",
-            "logo": "https://pbs.twimg.com/profile_images/1979526838738194432/v_9xhr23.jpg",
-            "status": "active",
-            "category": "GameFi",
-            "socials": {
-                "website": "https://farmstract.xyz/",
-                "twitter": "https://twitter.com/farmstract",
-                "discord": null
-            },
-            "details": {
-                "description": "Farmstract is an on-chain farming GameFi experience built on AbstractChain, where players build farms, grow crops/animals, earn XP, and engage in blockchain-based gameplay with whitelist access and rewards.",
-                "announcement_url": "https://twitter.com/farmstract/status/2012612074342433089",
-                "apply_url": "https://docs.google.com/forms/d/e/1FAIpQLSfpMgk3JSdXYaxU9XhyD9I5sTd-Un7aTAojbfTli-tu_BKeng/viewform"
-            }
         }
+
     ]
 }
