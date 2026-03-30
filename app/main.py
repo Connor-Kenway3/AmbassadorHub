@@ -33,9 +33,9 @@ templates = Jinja2Templates(directory=TEMPLATE_DIR)
 
 @app.get("/")
 async def homepage(request: Request):
-    # This serves from RAM. On Vercel, this makes your 'warm' requests 
-    # feel snappy and responsive.
+    # Pass the context explicitly as a dictionary
     return templates.TemplateResponse(
-        "index.html",
-        {"request": request, "programs":json.dumps(cache["programs"])}
+        request=request, 
+        name="index.html", 
+        context={"programs": cache["programs"]} 
     )
