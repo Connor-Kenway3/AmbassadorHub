@@ -156,7 +156,7 @@
         {
             "id": "gohome_token",
             "name": "GoHome",
-            "logo": "https://pbs.twimg.com/profile_images/1996239070540795904/2rEUnfwC.jpg",
+            "logo": "https://pbs.twimg.com/profile_images/2024825376585691136/ACcOMc6E_400x400.jpg",
             "status": "active",
             "category": "Meme",
             "socials": {
@@ -649,7 +649,7 @@
         {
             "id": "saharaai",
             "name": "Sahara AI",
-            "logo": "https://pbs.twimg.com/profile_images/1955663161928921088/nn_g5zL1.png",
+            "logo": "https://pbs.twimg.com/profile_images/2036127147329462276/w878A4Vk_400x400.jpg",
             "status": "active",
             "category": "AI",
             "socials": {
@@ -802,7 +802,7 @@
         {
             "id": "oasisprotocol",
             "name": "Oasis Protocol",
-            "logo": "https://pbs.twimg.com/profile_images/1942334774112133120/nTL5sHOw.jpg",
+            "logo": "https://pbs.twimg.com/profile_images/2028440099080323072/7CnkwhYL_400x400.jpg",
             "status": "active",
             "category": "L1",
             "socials": {
@@ -832,7 +832,193 @@
                 "announcement_url": "https://moonbeam.network/community/ambassador",
                 "apply_url": "https://moonbeam.network/community/ambassador/apply"
             }
+        },
+        {
+            "id": "seq_protocol",
+            "name": "Seq Protocol",
+            "logo": "https://pbs.twimg.com/profile_images/2015609491933532160/TdfnVHyz_400x400.jpg",
+            "status": "active",
+            "category": "L1",
+            "socials": {
+                "website": "https://seqpresale.com/",
+                "twitter": "https://twitter.com/Seq_Protocol",
+                "discord": null
+            },
+            "details": {
+                "description": "Seq Protocol (Sequoia Protocol) is building a high-performance Layer 1 blockchain focused on scalable DeFi and real-world applications with strong community incentives.",
+                "announcement_url": "https://x.com/Seq_Protocol/status/2035372358664413638",
+                "apply_url": "https://docs.google.com/forms/d/e/1FAIpQLSfbJKIwUkiB1x27kgg_QfkRNMfprtCGNDxUw5-NHgPmXPpbnQ/viewform"
+            }
+        },
+        {
+            "id": "goldfishggbr",
+            "name": "Goldfish",
+            "logo": "https://pbs.twimg.com/profile_images/2002059690834845696/jSwhz4s__400x400.jpg",
+            "status": "active",
+            "category": "GameFi",
+            "socials": {
+                "website": "https://goldfishgold.com/",
+                "twitter": "https://twitter.com/goldfishggbr",
+                "discord": null
+            },
+            "details": {
+                "description": "Goldfish is a fun, community-driven GameFi project offering engaging gameplay, rewards, and a monthly $5,000 reward pool for active ambassadors and content creators.",
+                "announcement_url": "https://ambassador.goldfishgold.com/",
+                "apply_url": "https://ambassador.goldfishgold.com/apply"
+            }
+        },
+        {
+            "id": "mandalachain",
+            "name": "Mandala Chain",
+            "logo": "https://pbs.twimg.com/profile_images/2009199833005936640/0Epb3t8c_400x400.jpg",
+            "status": "active",
+            "category": "L1",
+            "socials": {
+                "website": "https://www.mandalachain.io/",
+                "twitter": "https://twitter.com/MandalaChain",
+                "discord": null
+            },
+            "details": {
+                "description": "Mandala Chain is a sovereign blockchain infrastructure platform designed to connect retail, government, and enterprise, enabling rapid deployment for mass adoption in Southeast Asia and beyond.",
+                "announcement_url": "https://x.com/MandalaChain/status/2034264134418600084",
+                "apply_url": "https://forms.gle/eBztNjK5zJ3KkNCM7"
+            }
+        },
+        {
+            "id": "dzap_io",
+            "name": "DZap",
+            "logo": "https://pbs.twimg.com/profile_images/1929484623412633600/axOBrc8H_400x400.jpg",
+            "status": "active",
+            "category": "DeFi",
+            "socials": {
+                "website": "https://dzap.io/",
+                "twitter": "https://twitter.com/dzap_io",
+                "discord": null
+            },
+            "details": {
+                "description": "DZap is a unified DeFi execution layer providing seamless access across 100+ chains and providers, with powerful tools for builders, traders, and liquidity providers.",
+                "announcement_url": "https://x.com/dzap_io/status/2031764146367451587",
+                "apply_url": "https://docs.google.com/forms/d/e/1FAIpQLSdiHQ3z3PNKu28OZTTtz5HvT-IjRY0UhmM70fNRLFAahY5VGQ/viewform"
+            }
+        },
+        {
+            "id": "teafi_official",
+            "name": "TeaFi",
+            "logo": "https://pbs.twimg.com/profile_images/1889694479239520256/t5tFjgrK_400x400.jpg",
+            "status": "active",
+            "category": "DeFi",
+            "socials": {
+                "website": "https://tea-fi.com/",
+                "twitter": "https://twitter.com/TeaFi_Official",
+                "discord": null
+            },
+            "details": {
+                "description": "TeaFi is a crypto super app offering seamless DeFi tools, trading, and community features with a strong focus on user experience and ecosystem growth.",
+                "announcement_url": "https://x.com/TeaFi_Official/status/2033937472460038382",
+                "apply_url": "https://solusgroup.notion.site/Tea-Fi-Ambassador-Program-Phase-3-30b00d477f43807e8c2fdbbc8adcf1c7"
+            }
+        },
+        {
+            "id": "kultgames",
+            "name": "Kult Games",
+            "logo": "https://pbs.twimg.com/profile_images/1757821302889721856/oaqlVqDI_400x400.png",
+            "status": "active",
+            "category": "Gaming",
+            "socials": {
+                "website": "https://kult.games/",
+                "twitter": "https://twitter.com/_KultGames",
+                "discord": null
+            },
+            "details": {
+                "description": "Kult Games is a Web3 gaming ecosystem empowering true digital ownership, play-to-earn mechanics, and community-driven development in the next generation of blockchain gaming.",
+                "announcement_url": "https://x.com/_KultGames/status/2026970641925333004",
+                "apply_url": "https://docs.google.com/forms/d/e/1FAIpQLSdYyQ2PY6-uFUwDCG9xdv7ftatkryA4Uj-osdvCgjnr7tlMww/viewform"
+            }
+        },
+        {
+            "id": "aveforge",
+            "name": "AveForge",
+            "logo": "https://pbs.twimg.com/profile_images/2016157596277686272/vD_hsxTv_400x400.jpg",
+            "status": "active",
+            "category": "DeFi",
+            "socials": {
+                "website": "https://aveforge.com/",
+                "twitter": "https://twitter.com/AveForge",
+                "discord": null
+            },
+            "details": {
+                "description": "AveForge is building advanced DeFi tools and infrastructure focused on yield optimization, trading, and creator tools in the Web3 space.",
+                "announcement_url": "https://x.com/AveForge/status/2026392199626371356",
+                "apply_url": "https://docs.google.com/forms/d/e/1FAIpQLSdaD-6lo_1umhCPiT7U7Jt0bDyFGgFiyR6K59CVF1dyEaQFAQ/viewform"
+            }
+        },
+        {
+            "id": "wheelx_fi",
+            "name": "WheelX",
+            "logo": "https://pbs.twimg.com/profile_images/1945645513077821441/vXFXoAyo_400x400.jpg",
+            "status": "active",
+            "category": "DeFi",
+            "socials": {
+                "website": "https://wheelx.fi/",
+                "twitter": "https://twitter.com/WheelX_fi",
+                "discord": null
+            },
+            "details": {
+                "description": "WheelX is a DeFi platform offering innovative yield strategies, liquidity solutions, and on-chain trading experiences with strong community incentives.",
+                "announcement_url": "https://x.com/WheelX_fi/status/2016485648040120387",
+                "apply_url": "https://docs.google.com/forms/d/e/1FAIpQLScLNb9kFJ8F7AY7oY89DV62GPcBwpyn9-hI7MPAuqQLmNWhQw/viewform"
+            }
+        },
+        {
+            "id": "speculatex",
+            "name": "SpeculateX",
+            "logo": "https://pbs.twimg.com/profile_images/2019386152860434432/ajPgmbmq_400x400.jpg",
+            "status": "active",
+            "category": "Prediction Market",
+            "socials": {
+                "website": null,
+                "twitter": "https://twitter.com/SpeculateX",
+                "discord": null
+            },
+            "details": {
+                "description": "SpeculateX is a decentralized prediction market on BNB Chain where users trade yes/no outcomes on crypto and real-world events with revenue-sharing rewards for ambassadors.",
+                "announcement_url": "https://x.com/SpeculateX/status/2023667257272873194",
+                "apply_url": "https://docs.google.com/forms/d/e/1FAIpQLSdURBdEF8N4hvVBQazwC_6DlkRgCCJrPmdY9dgoM8zN-LhAcQ/viewform"
+            }
+        },
+        {
+            "id": "dfusionai",
+            "name": "dFusion AI",
+            "logo": "https://pbs.twimg.com/profile_images/1784806051214454784/9V8vd93X_400x400.png",
+            "status": "active",
+            "category": "AI",
+            "socials": {
+                "website": "https://www.dfusion.ai/",
+                "twitter": "https://twitter.com/dFusionAI",
+                "discord": null
+            },
+            "details": {
+                "description": "dFusion AI combines AI fact-checking with decentralized consensus through Vericore, building a truth-verified internet via semantic intelligence and community-driven data subnets.",
+                "announcement_url": "https://x.com/dFusionAI/status/2023405550294413817",
+                "apply_url": "https://docs.google.com/forms/d/e/1FAIpQLSdyvwETfMsnM2BG-cIa2uxhrL76w1XOMPXbHiWTQDvcsAYcLg/viewform"
+            }
+        },
+        {
+            "id": "helmtrading",
+            "name": "Helm Trading",
+            "logo": "https://pbs.twimg.com/profile_images/2027060585645658112/IQ-Cs9Px_400x400.jpg",
+            "status": "active",
+            "category": "Trading",
+            "socials": {
+                "website": "https://helm.trading/",
+                "twitter": "https://twitter.com/HelmTrading",
+                "discord": null
+            },
+            "details": {
+                "description": "Helm Trading is a growing crypto trading platform offering community rewards and real $HELM incentives for active ambassadors and contributors.",
+                "announcement_url": "https://x.com/HelmTrading/status/2031431896702529969",
+                "apply_url": "https://docs.google.com/forms/d/e/1FAIpQLScGsgl_q85y_aaQBgGebCpV01Ya-CGJN-13CJ7vSKDv5RC2Ig/viewform"
+            }
         }
-
     ]
 }
