@@ -64,7 +64,7 @@
     <p>Built with ❤️ by <a href="https://x.com/connor_kenway3" target="_blank">Connor</a> © 2026</p>
     </footer>
     <script>
-        window.programsData = { "programs": {{ programs | tojson }} };
+        window.programsData = { "programs": JSON.parse({{ programs | tojson }}) };;
     </script>
 
     <script src="/static/script.js"></script>

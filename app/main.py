@@ -37,5 +37,5 @@ async def homepage(request: Request):
     # feel snappy and responsive.
     return templates.TemplateResponse(
         "index.html",
-        {"request": request, "programs": cache["programs"]}
+        {"request": request, "programs":json.dumps(cache["programs"])}
     )

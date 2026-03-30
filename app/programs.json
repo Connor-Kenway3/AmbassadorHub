@@ -345,10 +345,7 @@
             "name": "Injective",
             "logo": "https://pbs.twimg.com/profile_images/2008249187247198208/dqq6ivEi.jpg",
             "status": "active",
-            "category": [
-                "L1",
-                "DeFi"
-            ],
+            "category": "L1",
             "socials": {
                 "website": "https://injective.com/",
                 "twitter": "https://twitter.com/injective",
