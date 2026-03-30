@@ -1019,6 +1019,23 @@
                 "announcement_url": "https://x.com/HelmTrading/status/2031431896702529969",
                 "apply_url": "https://docs.google.com/forms/d/e/1FAIpQLScGsgl_q85y_aaQBgGebCpV01Ya-CGJN-13CJ7vSKDv5RC2Ig/viewform"
             }
+        },
+        {
+            "id": "atmosprotocol",
+            "name": "Atmos Protocol",
+            "logo": "https://pbs.twimg.com/profile_images/1827302906405531649/I2_4yo5b.jpg",
+            "status": "active",
+            "category": "DeFi",
+            "socials": {
+                "website": "https://atmos.ag/",
+                "twitter": "https://twitter.com/AtmosProtocol",
+                "discord": "https://discord.com/invite/2RBgHHukVs"
+            },
+            "details": {
+                "description": "Atmos Protocol is the DeFi hub on Supra Labs, offering social-driven gamified trading, LP & earn, permissionless token studio, meme launches, and portfolio management with on-chain profile building.",
+                "announcement_url": "https://x.com/AtmosProtocol/status/2023803749232505015",
+                "apply_url": "https://docs.google.com/forms/d/e/1FAIpQLSfs_Rs19PG-k_Q-vXZ2ZzNYdq75R3nD4Mf5QtRFl3gCn9ASiA/viewform"
+            }
         }
     ]
 }
