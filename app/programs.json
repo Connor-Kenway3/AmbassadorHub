@@ -645,7 +645,259 @@
                 "announcement_url": "https://x.com/dFusionAI/status/2023405550294413817",
                 "apply_url": "https://docs.google.com/forms/d/e/1FAIpQLSdyvwETfMsnM2BG-cIa2uxhrL76w1XOMPXbHiWTQDvcsAYcLg/viewform"
             }
+        },
+        {
+            "id": "retium",
+            "name": "Retium",
+            "logo": "https://pbs.twimg.com/profile_images/1981948122298306560/6G0E6y6n_400x400.jpg",
+            "status": "active",
+            "category": "Blockchain L1",
+            "socials": {
+                "website": "https://retium.org/",
+                "twitter": "https://x.com/RetiumChain",
+                "discord": "https://discord.com/invite/yrP3nCCwpg"
+            },
+            "details": {
+                "description": "Retium is a multi-dimensional Layer-1 blockchain built on mathematical principles (prime-linking architecture) for high scalability, instant finality, and parallel block processing. Focused on infrastructure for DeFi, DAOs, NFTs, RWAs, and real-world applications.",
+                "announcement_url": "https://x.com/RetiumChain/status/2060168447682908536",
+                "apply_url": "https://x.com/RetiumChain/status/2060168447682908536"
+            }
+        },
+        {
+            "id": "zbit",
+            "name": "zBit",
+            "logo": "https://pbs.twimg.com/profile_images/2010627676718125056/L9WHm2gp_400x400.jpg",
+            "status": "active",
+            "category": "Crypto Exchange",
+            "socials": {
+                "website": "https://zbit.com/",
+                "twitter": "https://x.com/zBit_Official",
+                "discord": null
+            },
+            "details": {
+                "description": "zBit is a beginner-friendly cryptocurrency trading platform offering spot and futures markets, with a focus on secure, efficient, and user-friendly digital asset trading services globally.",
+                "announcement_url": "https://x.com/zBit_Official",
+                "apply_url": "https://ajxxbwz9cn2.sg.larksuite.com/share/base/form/shrlg9NppoYObArCn2A3Fp7dlub"
+            }
+        },
+        {
+            "id": "soneium",
+            "name": "Soneium",
+            "logo": "https://pbs.twimg.com/profile_images/2000570411939983362/DPi2EKTN.jpg",
+            "status": "active",
+            "category": "Ethereum L2",
+            "socials": {
+                "website": "https://soneium.org/",
+                "twitter": "https://x.com/soneium",
+                "discord": "https://discord.gg/soneium"
+            },
+            "details": {
+                "description": "Soneium is an Ethereum Layer 2 blockchain developed by Sony Block Solutions Labs, designed to inspire emotion, empower creativity, and drive mainstream Web3 adoption through entertainment, community, and developer tools.",
+                "announcement_url": "https://x.com/soneium/status/2071869345433788658",
+                "apply_url": "https://form.typeform.com/to/yXfi1CeG?typeform-source=soneium.org"
+            }
+        },
+        {
+            "id": "ploplo",
+            "name": "PloPlo",
+            "logo": "https://pbs.twimg.com/profile_images/2048760828070129666/k1ZM4030.jpg",
+            "status": "active",
+            "category": "AI, NFT",
+            "socials": {
+                "website": "https://ploplo.ai/",
+                "twitter": "https://x.com/0xploplo",
+                "discord": "https://discord.com/invite/853KBmEGP9"
+            },
+            "details": {
+                "description": "PloPlo is an AI-powered Web3 companion and virtual pet NFT project with evolving gameplay, on-chain ownership, and integration in the Ritual ecosystem, focused on imagination, exploration, and community building.",
+                "announcement_url": "https://x.com/0xploplo/status/2077019176951009414",
+                "apply_url": "https://docs.google.com/forms/d/e/1FAIpQLSeakuhvVuKTDAamhpwztNzy7SXJzgHe_eT9pYLDuQEx4cJ4PA/viewform?usp=send_form"
+            }
+        },
+        {
+            "id": "crabx",
+            "name": "CrabX",
+            "logo": "https://pbs.twimg.com/profile_images/1991471609232908288/YPV6N02k.jpg",
+            "status": "active",
+            "category": "Crypto Exchange / DeFi",
+            "socials": {
+                "website": "https://crabx.com/",
+                "twitter": "https://x.com/crabex_official",
+                "discord": ""
+            },
+            "details": {
+                "description": "CrabX is a next-generation CEX powered by AI agents and prediction markets, using CDeFi to build a smarter digital asset ecosystem with focus on community growth and global expansion.",
+                "announcement_url": "https://x.com/crabex_official/status/2074811682858414479",
+                "apply_url": "https://docs.google.com/forms/d/e/1FAIpQLSf0e58MFM6N5qKOB97f2WprkJ2OCuXBmadZ2Eb0Lsn5jfMmaA/viewform"
+            }
+        },
+        {
+            "id": "allbridge",
+            "name": "Allbridge",
+            "logo": "https://pbs.twimg.com/profile_images/1667191904545505281/bbm43TM7.jpg",
+            "status": "active",
+            "category": "Cross-Chain Infrastructure",
+            "socials": {
+                "website": "https://allbridge.io/",
+                "twitter": "https://x.com/Allbridge_io",
+                "discord": "https://discord.com/invite/TY4AHMkyv8"
+            },
+            "details": {
+                "description": "Allbridge provides simple, modern, and reliable cross-chain asset transfers. Allbridge Next focuses on enhanced cross-chain experiences with ambassador programs rewarding content creation and on-chain volume.",
+                "announcement_url": "https://x.com/Allbridge_io/status/2072296688442581164",
+                "apply_url": "https://next.allbridge.io/ambassadors"
+            }
+        },
+        {
+            "id": "bigod",
+            "name": "BIGOD",
+            "logo": "https://pbs.twimg.com/profile_images/1985884660866674688/A9SPxbqJ.jpg",
+            "status": "active",
+            "category": "RWA",
+            "socials": {
+                "website": "https://bingold.to/",
+                "twitter": "https://x.com/BiGODToken",
+                "discord": ""
+            },
+            "details": {
+                "description": "BIGOD is a gold-backed RWA token bringing real-world gold liquidity to blockchain, with focus on secure investment, value preservation, and community growth through tokenized gold.",
+                "announcement_url": "https://x.com/BiGODToken/status/2071423697160966587",
+                "apply_url": "https://ambassador.bingold.to/"
+            }
+        },
+        {
+            "id": "erpsachain",
+            "name": "ErpsaChain",
+            "logo": "https://pbs.twimg.com/profile_images/2071418744774283264/g9-24Z05.jpg",
+            "status": "active",
+            "category": "AI, L1",
+            "socials": {
+                "website": "https://erpsachain.xyz/",
+                "twitter": "https://x.com/ErpsaChain",
+                "discord": "https://discord.com/invite/5N8JZJ7xb"
+            },
+            "details": {
+                "description": "ErpsaChain is an AI-native Layer 1 blockchain built to power global finance, digital assets, DeFi, RWAs, and autonomous AI agents, with a focus on high-performance infrastructure for the next billion users.",
+                "announcement_url": "https://x.com/ErpsaChain/status/2071464451765879260",
+                "apply_url": "https://docs.google.com/forms/d/e/1FAIpQLScQsS7Ql4S6iKqIRVdBpDr3r_7zYjl6SD3W07md2AEkZ54n3w/viewform"
+            }
+        },
+        {
+            "id": "tauntplay",
+            "name": "Taunt Play",
+            "logo": "https://pbs.twimg.com/profile_images/2054953516670894080/VoUm4md-_400x400.png",
+            "status": "active",
+            "category": "Prediction Market",
+            "socials": {
+                "website": "https://play.tauntlive.com/",
+                "twitter": "https://x.com/PlayTaunt",
+                "discord": "https://discord.com/invite/FaU8eZWp6n"
+            },
+            "details": {
+                "description": "Taunt Live powered by tauntAI: Turn any moment into a prediction.",
+                "announcement_url": "https://collective.tauntlive.com/",
+                "apply_url": "https://collective.tauntlive.com/"
+            }
+        },
+        {
+            "id": "jupiter",
+            "name": "Jupiter",
+            "logo": "https://pbs.twimg.com/profile_images/2038983410929246208/jP-6TRGH_400x400.jpg",
+            "status": "active",
+            "category": "DEX Aggregator",
+            "socials": {
+                "website": "https://jup.ag/mobile",
+                "twitter": "https://x.com/@up_mobile",
+                "discord": "https://discord.com/invite/jup"
+            },
+            "details": {
+                "description": "Jupiter is a leading Solana DEX aggregator and perpetuals exchange platform.",
+                "announcement_url": "https://x.com/jup_mobile/status/2074728976707129669",
+                "apply_url": "https://docs.google.com/forms/d/e/1FAIpQLSetFso8UmYgMXWUGgl3xpYfkUb1mJTXozW7a1ZzT5fxVJNWNA/viewform"
+            }
+        },
+        {
+            "id": "seraprotocol",
+            "name": "Sera",
+            "logo": "https://pbs.twimg.com/profile_images/2052537104597712896/NG0WBhpg.png",
+            "status": "active",
+            "category": "Stablecoins",
+            "socials": {
+                "website": "https://sera.cx/",
+                "twitter": "https://twitter.com/seraprotocol",
+                "discord": null
+            },
+            "details": {
+                "description": "Sera builds FX OnChain settlement for 70+ stablecoins, programmable money, agentic payments, instant and borderless.",
+                "announcement_url": "https://twitter.com/seraprotocol/status/2072329418878681288",
+                "apply_url": "https://ambassador.sera.cx/leaderboard"
+            }
+        },
+        {
+            "id": "tangem",
+            "name": "Tangem",
+            "logo": "https://pbs.twimg.com/profile_images/1813600365394141184/L4woOdd6.jpg",
+            "status": "active",
+            "category": "Wallet",
+            "socials": {
+                "website": "https://tangem.com/",
+                "twitter": "https://twitter.com/Tangem",
+                "discord": "https://discord.com/invite/sFGdnMtsnG"
+            },
+            "details": {
+                "description": "Tangem offers secure, portable hardware wallets for crypto self-custody with 6M+ wallets issued. Focus on security, utility, and mobility.",
+                "announcement_url": "https://twitter.com/Tangem/status/2073078261593121246",
+                "apply_url": "https://tangem.typeform.com/Ambassador?typeform-source=t.co"
+            }
+        },
+        {
+            "id": "insoblokai",
+            "name": "InSoBlokAI",
+            "logo": "https://pbs.twimg.com/profile_images/1826300936723038208/hFSPiOhA.jpg",
+            "status": "active",
+            "category": "Infrastructure",
+            "socials": {
+                "website": "https://insoblokai.io/",
+                "twitter": "https://twitter.com/insoblokai",
+                "discord": "https://discord.com/invite/SGDnMp58ne"
+            },
+            "details": {
+                "description": "InSoBlokAI is building the trust layer of Web3 with TasteScore™",
+                "announcement_url": "https://twitter.com/insoblokai/status/2074149523643850796",
+                "apply_url": "https://insoblokai.io/ambassador"
+            }
+        },
+        {
+            "id": "toriumnetwork",
+            "name": "Torium Network",
+            "logo": "https://pbs.twimg.com/profile_images/2056707870721216512/HXjWbHQK.jpg",
+            "status": "active",
+            "category": "Mobile Mining",
+            "socials": {
+                "website": "https://torium.network/",
+                "twitter": "https://twitter.com/ToriumNetwork"
+            },
+            "details": {
+                "description": "Torium Network enables mining $TOR directly from your phone with no hardware required. Focus on accessible crypto for everyone and community-driven growth.",
+                "announcement_url": "https://twitter.com/ToriumNetwork/status/2075529072948465963",
+                "apply_url": "https://ambassador.torium.network/"
+            }
+        },
+        {
+            "id": "grey_network_ct",
+            "name": "Grey Network",
+            "logo": "https://pbs.twimg.com/profile_images/2064496927140442112/9FTPed0l.jpg",
+            "status": "active",
+            "category": "L1",
+            "socials": {
+                "website": "https://minegrey.com/",
+                "twitter": "https://twitter.com/grey_network_ct"
+            },
+            "details": {
+                "description": "Grey Network is building a scalable Layer 1 blockchain for decentralized Web3 infrastructure. Focus on global community, security, and mainnet launch.",
+                "announcement_url": "https://twitter.com/grey_network_ct/status/2073802660915154979",
+                "apply_url": "https://forms.gle/5FFN3tctLVG8axNA6"
+            }
         }
-
     ]
 }
