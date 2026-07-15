@@ -209,7 +209,7 @@
             "name": "Hotstuff",
             "logo": "https://pbs.twimg.com/profile_images/1989969985134104576/wrI1okZ5.png",
             "status": "active",
-            "category": "L1",
+            "category": "DeFi",
             "socials": {
                 "website": "https://hotstuff.trade/",
                 "twitter": "https://twitter.com/tradehotstuff",
@@ -545,23 +545,6 @@
             }
         },
         {
-            "id": "seq_protocol",
-            "name": "Seq Protocol",
-            "logo": "https://pbs.twimg.com/profile_images/2015609491933532160/TdfnVHyz_400x400.jpg",
-            "status": "active",
-            "category": "L1",
-            "socials": {
-                "website": "https://seqpresale.com/",
-                "twitter": "https://twitter.com/Seq_Protocol",
-                "discord": null
-            },
-            "details": {
-                "description": "Seq Protocol (Sequoia Protocol) is building a high-performance Layer 1 blockchain focused on scalable DeFi and real-world applications with strong community incentives.",
-                "announcement_url": "https://x.com/Seq_Protocol/status/2035372358664413638",
-                "apply_url": "https://docs.google.com/forms/d/e/1FAIpQLSfbJKIwUkiB1x27kgg_QfkRNMfprtCGNDxUw5-NHgPmXPpbnQ/viewform"
-            }
-        },
-        {
             "id": "goldfishggbr",
             "name": "Goldfish",
             "logo": "https://pbs.twimg.com/profile_images/2002059690834845696/jSwhz4s__400x400.jpg",
@@ -651,7 +634,7 @@
             "name": "Retium",
             "logo": "https://pbs.twimg.com/profile_images/1981948122298306560/6G0E6y6n_400x400.jpg",
             "status": "active",
-            "category": "Blockchain L1",
+            "category": "L1",
             "socials": {
                 "website": "https://retium.org/",
                 "twitter": "https://x.com/RetiumChain",
@@ -668,7 +651,7 @@
             "name": "zBit",
             "logo": "https://pbs.twimg.com/profile_images/2010627676718125056/L9WHm2gp_400x400.jpg",
             "status": "active",
-            "category": "Crypto Exchange",
+            "category": "Exchange",
             "socials": {
                 "website": "https://zbit.com/",
                 "twitter": "https://x.com/zBit_Official",
@@ -685,7 +668,7 @@
             "name": "Soneium",
             "logo": "https://pbs.twimg.com/profile_images/2000570411939983362/DPi2EKTN.jpg",
             "status": "active",
-            "category": "Ethereum L2",
+            "category": "L2",
             "socials": {
                 "website": "https://soneium.org/",
                 "twitter": "https://x.com/soneium",
@@ -719,7 +702,7 @@
             "name": "CrabX",
             "logo": "https://pbs.twimg.com/profile_images/1991471609232908288/YPV6N02k.jpg",
             "status": "active",
-            "category": "Crypto Exchange / DeFi",
+            "category": "DeFi",
             "socials": {
                 "website": "https://crabx.com/",
                 "twitter": "https://x.com/crabex_official",
@@ -736,7 +719,7 @@
             "name": "Allbridge",
             "logo": "https://pbs.twimg.com/profile_images/1667191904545505281/bbm43TM7.jpg",
             "status": "active",
-            "category": "Cross-Chain Infrastructure",
+            "category": "Infrastructure",
             "socials": {
                 "website": "https://allbridge.io/",
                 "twitter": "https://x.com/Allbridge_io",
@@ -770,7 +753,7 @@
             "name": "ErpsaChain",
             "logo": "https://pbs.twimg.com/profile_images/2071418744774283264/g9-24Z05.jpg",
             "status": "active",
-            "category": "AI, L1",
+            "category": "L1",
             "socials": {
                 "website": "https://erpsachain.xyz/",
                 "twitter": "https://x.com/ErpsaChain",
