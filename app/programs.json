@@ -3,7 +3,7 @@
         {
             "id": "solsticefi",
             "name": "Solstice",
-            "logo": "https://pbs.twimg.com/profile_images/1916876277388046337/Qny5yRI2.png",
+            "logo": "https://pbs.twimg.com/profile_images/2070142847945154560/itaTgGE4_400x400.jpg",
             "status": "active",
             "category": "DeFi",
             "socials": {
@@ -14,7 +14,7 @@
             "details": {
                 "description": "Solstice is a Solana-native DeFi protocol offering $USX stablecoin and YieldVault with delta-neutral strategies for sustainable, high-yield returns on stable assets.",
                 "announcement_url": "https://x.com/solsticefi/status/2019440979044934065",
-                "apply_url": "https://docs.google.com/forms/d/e/1FAIpQLSfU_i0qJTDx__qvO0m3IvewOwt2pZje_R84qOGtNN5eyQ6Apw/viewform"
+                "apply_url": "https://solsticeambassador.finance/"
             }
         },
         {
@@ -32,23 +32,6 @@
                 "description": "BitRobot Network is an open robotics network accelerating embodied AI breakthroughs by combining people, robots, and computing power for decentralized robot training and validation.",
                 "announcement_url": "https://x.com/BitRobotNetwork/status/2019810487735918751",
                 "apply_url": "https://app.youform.com/forms/omzetnvh"
-            }
-        },
-        {
-            "id": "incentiv_net",
-            "name": "Incentiv",
-            "logo": "https://pbs.twimg.com/profile_images/1833098535283081216/pFtIGwsm.jpg",
-            "status": "active",
-            "category": "L1",
-            "socials": {
-                "website": "https://incentiv.io/",
-                "twitter": "https://twitter.com/Incentiv_net",
-                "discord": "https://discord.com/invite/incentiv"
-            },
-            "details": {
-                "description": "Incentiv is an efficient, simple, and impactful Layer 1 blockchain where every action counts, focusing on real usage, aligned incentives, and community-driven growth.",
-                "announcement_url": "https://x.com/Incentiv_net/status/2016505086944616792",
-                "apply_url": "https://discord.com/invite/incentiv"
             }
         },
         {
@@ -100,23 +83,6 @@
                 "description": "Byzanlink is an RWA tokenization platform bridging DeFi and TradFi, backed by Outlier Ventures and NTDPSA, enabling secure, programmable real-world asset yield and on-chain capital markets.",
                 "announcement_url": "https://x.com/byzanlink/status/2018339576314781739",
                 "apply_url": "https://docs.google.com/forms/d/e/1FAIpQLScUaK6mnJQpJhVnchDU350At-dVJuNTXyOca_6PwYI2xClxzw/viewform"
-            }
-        },
-        {
-            "id": "lfwallet",
-            "name": "LF Wallet",
-            "logo": "https://pbs.twimg.com/profile_images/2015179096423317504/_cshQeC_.jpg",
-            "status": "active",
-            "category": "Wallet",
-            "socials": {
-                "website": "https://lfwallet.com/",
-                "twitter": "https://twitter.com/LFWallet",
-                "discord": null
-            },
-            "details": {
-                "description": "LF Wallet is a one-stop non-custodial wallet for managing on-chain assets, offering seamless access to DeFi, NFTs, and multi-chain support in a user-friendly interface.",
-                "announcement_url": "https://x.com/LFWallet/status/2018668851500814378",
-                "apply_url": "https://forms.gle/Ech2K1whVxMRo4sq9"
             }
         },
         {
@@ -218,24 +184,7 @@
             "details": {
                 "description": "T-RIZE is an institutional-grade RWA tokenization infrastructure platform combining machine learning with blockchain, enabling secure, compliant real-world asset tokenization; official member of Canton Network with $RIZE token listed on major exchanges like Kraken.",
                 "announcement_url": "https://twitter.com/trize_io/status/2014473148956029219",
-                "apply_url": "https://docs.google.com/forms/d/e/1FAIpQLSeSay1xwtiB59FzI27hAHmvSn7K_is5X6Pyw1-xCx-1afiC5g/viewform?usp=preview"
-            }
-        },
-        {
-            "id": "novastro_xyz",
-            "name": "Novastro",
-            "logo": "https://pbs.twimg.com/profile_images/1874405820466618368/fIXPJg_I.jpg",
-            "status": "active",
-            "category": "RWA",
-            "socials": {
-                "website": "https://novastro.xyz/",
-                "twitter": "https://twitter.com/Novastro_xyz",
-                "discord": null
-            },
-            "details": {
-                "description": "Novastro is a modular RWAfi layer powered by AI, Ethereum-aligned and scaling across Sui, Arbitrum, and Solana, allowing users to tokenize, trade, and earn yields on real-world assets with compliance-first infrastructure and $XNL token.",
-                "announcement_url": "https://twitter.com/Novastro_xyz/status/2014377092893573199",
-                "apply_url": "https://docs.google.com/forms/d/e/1FAIpQLSewEoB_8whzYnE03vckyYdqMlfpujBZHgHR61TIrWnoSq7kCQ/viewform?usp=send_form"
+                "apply_url": "https://docs.google.com/forms/d/e/1FAIpQLSeSay1xwtiB59FzI27hAHmvSn7K_is5X6Pyw1-xCx-1afiC5g/viewform"
             }
         },
         {
@@ -290,40 +239,6 @@
             }
         },
         {
-            "id": "stellar_wa",
-            "name": "Stellar Africa",
-            "logo": "https://pbs.twimg.com/profile_images/1800161800861679616/bjJFAt4e.jpg",
-            "status": "active",
-            "category": "Ecosystem",
-            "socials": {
-                "website": null,
-                "twitter": "https://twitter.com/Stellar_WA",
-                "discord": "https://discord.com/invite/zVYdY3ktTn"
-            },
-            "details": {
-                "description": "Stellar Africa builds and grows the Stellar ecosystem across West Africa, supporting local communities, events, education, and adoption of blockchain for payments and financial inclusion.",
-                "announcement_url": "https://twitter.com/Stellar_WA/status/2013265195469021295",
-                "apply_url": "https://airtable.com/appWdW69QmA0v16SM/pagLIW9lbEHzkWU4V/form"
-            }
-        },
-        {
-            "id": "burnt_xion",
-            "name": "XION",
-            "logo": "https://pbs.twimg.com/profile_images/1881756422507024384/Huw5cTrb.jpg",
-            "status": "active",
-            "category": "L1",
-            "socials": {
-                "website": "https://xion.burnt.com/",
-                "twitter": "https://x.com/burnt_xion",
-                "discord": "https://discord.com/invite/burnt"
-            },
-            "details": {
-                "description": "XION is the trust layer for the internet, turning verified data into programmable value, leveraged by over 150 brands.",
-                "announcement_url": "https://x.com/burnt_xion/status/2011423237230748107",
-                "apply_url": "https://xioncommunity.com/"
-            }
-        },
-        {
             "id": "injective",
             "name": "Injective",
             "logo": "https://pbs.twimg.com/profile_images/2008249187247198208/dqq6ivEi.jpg",
@@ -338,40 +253,6 @@
                 "description": "Injective is a blockchain built for finance, offering high-speed trading and advanced DeFi capabilities.",
                 "announcement_url": "https://x.com/injective/status/1932486719535829459",
                 "apply_url": "https://docs.google.com/forms/d/e/1FAIpQLSd5v9hi2pZz8lI3PEhd3_oQXs4QZm6Mq5tPPO5pGQUgHCCWTQ/viewform"
-            }
-        },
-        {
-            "id": "theoriqai",
-            "name": "Theoriq",
-            "logo": "https://pbs.twimg.com/profile_images/1810489288947019776/cEt5sHX_.jpg",
-            "status": "active",
-            "category": "AI",
-            "socials": {
-                "website": "https://www.theoriq.ai/",
-                "twitter": "https://twitter.com/TheoriqAI",
-                "discord": "https://discord.com/invite/theoriq"
-            },
-            "details": {
-                "description": "Theoriq is home of AlphaVault, autonomous onchain yield powered by agent swarms.",
-                "announcement_url": "https://x.com/theoriqai/status/2011850235015049677?s=46",
-                "apply_url": "https://x.com/theoriqai/status/2011850235015049677?s=46"
-            }
-        },
-        {
-            "id": "sentienteco",
-            "name": "Sentient",
-            "logo": "https://pbs.twimg.com/profile_images/1988552467769147392/0IWJ9RZE.jpg",
-            "status": "active",
-            "category": "AI",
-            "socials": {
-                "website": "https://www.sentient.xyz/",
-                "twitter": "https://twitter.com/SentientAGI",
-                "discord": "https://discord.gg/sentientfoundation"
-            },
-            "details": {
-                "description": "Sentient Ecosystem empowers builders, researchers, and the community in advancing open-source AGI.",
-                "announcement_url": "https://www.sentient.foundation/resources/be-the-sparks",
-                "apply_url": "https://forms.gle/iteKtQqHdi72qo5v5"
             }
         },
         {
@@ -426,23 +307,6 @@
             }
         },
         {
-            "id": "altiuslabs",
-            "name": "Altius",
-            "logo": "https://pbs.twimg.com/profile_images/2007808502731804672/cvbkAOIw.jpg",
-            "status": "active",
-            "category": "Blockchain",
-            "socials": {
-                "website": "https://www.altiuslabs.xyz/",
-                "twitter": "https://twitter.com/AltiusLabs",
-                "discord": "https://discord.gg/altiuslabs"
-            },
-            "details": {
-                "description": "Altius provides an institutional-grade execution layer to futureproof your blockchain with instant high performance.",
-                "announcement_url": "https://x.com/AltiusLabs/status/1904217340901748889",
-                "apply_url": "https://docs.google.com/forms/d/e/1FAIpQLSd6qX6r_NhUDJqFez9-Sa7a8XZ3h7V39qZWpX9hctOVs4M_gw/viewform?usp=send_form"
-            }
-        },
-        {
             "id": "alchemypay",
             "name": "Alchemy Pay",
             "logo": "https://pbs.twimg.com/profile_images/1875008116116557824/UOPehQMZ.jpg",
@@ -474,23 +338,6 @@
                 "description": "Hedra is the most productive way to go from idea to content, leveraging generative video and image models.",
                 "announcement_url": "https://x.com/hedra_labs/status/2012264797300211999",
                 "apply_url": "https://partners.dub.co/hedra"
-            }
-        },
-        {
-            "id": "sanity_united",
-            "name": "Sanity United",
-            "logo": "https://pbs.twimg.com/profile_images/2011491284402520071/FoLAnPZI.jpg",
-            "status": "active",
-            "category": "Mining",
-            "socials": {
-                "website": "https://sanity.fund",
-                "twitter": "https://twitter.com/sanity_united",
-                "discord": null
-            },
-            "details": {
-                "description": "Sanity United makes life easier through task delegation and sustainable crypto mining powered by renewables.",
-                "announcement_url": "https://x.com/sanity_united/status/2010355358166925368",
-                "apply_url": "https://docs.google.com/forms/d/e/1FAIpQLSdWjqw8Uex7I_lOyDjUOFoQTdddW98fpfY-OIgr_rGqBqB7Ag/viewform"
             }
         },
         {
@@ -528,23 +375,6 @@
             }
         },
         {
-            "id": "haven_rwa",
-            "name": "Haven",
-            "logo": "https://pbs.twimg.com/profile_images/1968969832701054976/_wRn0ksB.jpg",
-            "status": "active",
-            "category": "RWA",
-            "socials": {
-                "website": "https://haven.financial/",
-                "twitter": "https://twitter.com/haven_rwa",
-                "discord": null
-            },
-            "details": {
-                "description": "Haven is an on-chain fixed income supermarket bringing real-world assets (RWA) to DeFi with secure, yield-generating opportunities.",
-                "announcement_url": "https://twitter.com/haven_rwa/status/1998706141828886643",
-                "apply_url": "https://docs.google.com/forms/d/e/1FAIpQLScFZCW4iAfgJE998BxhnVtfIRABxcD5_OZigLgddF64LbsDFw/viewform?usp=send_form"
-            }
-        },
-        {
             "id": "get_optimum",
             "name": "Optimum",
             "logo": "https://pbs.twimg.com/profile_images/1894428615372075008/Qb6F39O0.jpg",
@@ -564,7 +394,7 @@
         {
             "id": "hela_network",
             "name": "HeLa Labs",
-            "logo": "https://pbs.twimg.com/profile_images/1660607342172598272/I5NPhhXH.jpg",
+            "logo": "https://pbs.twimg.com/profile_images/2070406715477245952/yjpaF8BB_400x400.jpg",
             "status": "active",
             "category": "L1",
             "socials": {
@@ -630,23 +460,6 @@
             }
         },
         {
-            "id": "dtelecom",
-            "name": "dTelecom",
-            "logo": "https://pbs.twimg.com/profile_images/1506185146168496134/FSDI6I7I.jpg",
-            "status": "active",
-            "category": "DePIN",
-            "socials": {
-                "website": "https://dtelecom.org/",
-                "twitter": "https://twitter.com/dtelecom",
-                "discord": "https://discord.gg/dtelecom"
-            },
-            "details": {
-                "description": "dTelecom is a decentralized real-time communication network on Solana, enabling voice, video, and chat flows with owned resources and rewards.",
-                "announcement_url": "https://twitter.com/dtelecom/status/2012163894899323165",
-                "apply_url": "https://twitter.com/dtelecom"
-            }
-        },
-        {
             "id": "interlink_itlg",
             "name": "Interlink Network",
             "logo": "https://pbs.twimg.com/profile_images/1950520988631719936/GIAXJMKx.jpg",
@@ -664,26 +477,9 @@
             }
         },
         {
-            "id": "tryqensa",
-            "name": "Qensa",
-            "logo": "https://pbs.twimg.com/profile_images/1965801547327254529/OsqpxBPM.jpg",
-            "status": "active",
-            "category": "Social",
-            "socials": {
-                "website": "https://qensa.com/",
-                "twitter": "https://twitter.com/TryQensa",
-                "discord": null
-            },
-            "details": {
-                "description": "Qensa is a modern Myspace-style link-in-bio tool for curating microsites to showcase art, NFTs, work, videos, merch, music, and more.",
-                "announcement_url": "https://twitter.com/TryQensa/status/2008871219903222229",
-                "apply_url": "https://qensa.com/ambassador-sign-up"
-            }
-        },
-        {
             "id": "trylimitless",
             "name": "Limitless",
-            "logo": "https://pbs.twimg.com/profile_images/1933055667524239360/mqiIx1cj.jpg",
+            "logo": "https://pbs.twimg.com/profile_images/2046574744489926656/5LUl3aBY_400x400.jpg",
             "status": "active",
             "category": "Prediction Market",
             "socials": {
@@ -732,23 +528,6 @@
             }
         },
         {
-            "id": "multiversx",
-            "name": "MultiversX",
-            "logo": "https://pbs.twimg.com/profile_images/1953134940301774848/UbIBbfXn.jpg",
-            "status": "active",
-            "category": "L1",
-            "socials": {
-                "website": "https://multiversx.com/",
-                "twitter": "https://twitter.com/MultiversX",
-                "discord": "https://discord.com/invite/multiversxbuilders"
-            },
-            "details": {
-                "description": "MultiversX is a highly scalable, secure, and green distributed blockchain network powered by adaptive state sharding, enabling next-gen decentralized applications with high throughput and low fees.",
-                "announcement_url": "https://multiversx.com/ambassadors",
-                "apply_url": "https://multiversx.com/ambassadors"
-            }
-        },
-        {
             "id": "oasisprotocol",
             "name": "Oasis Protocol",
             "logo": "https://pbs.twimg.com/profile_images/2028440099080323072/7CnkwhYL_400x400.jpg",
@@ -763,23 +542,6 @@
                 "description": "Oasis Protocol is a privacy-enabled blockchain platform with confidential compute via Sapphire Paratime, empowering responsible data usage, Web3 privacy, and secure AI applications.",
                 "announcement_url": "https://oasis.net/blog/introducing-sentinels-ambassadors-program",
                 "apply_url": "https://oasisrose.garden/oasis-ambassador-program/"
-            }
-        },
-        {
-            "id": "moonbeamnetwork",
-            "name": "Moonbeam",
-            "logo": "https://pbs.twimg.com/profile_images/1932083343899963392/Ed7--Mad.jpg",
-            "status": "active",
-            "category": "L1",
-            "socials": {
-                "website": "https://moonbeam.network/",
-                "twitter": "https://twitter.com/MoonbeamNetwork",
-                "discord": "https://discord.com/invite/PfpUATX"
-            },
-            "details": {
-                "description": "Moonbeam is an Ethereum-compatible smart contract platform on Polkadot, providing seamless cross-chain interoperability, EVM support, and tools for building decentralized applications in a multi-chain ecosystem.",
-                "announcement_url": "https://moonbeam.network/community/ambassador",
-                "apply_url": "https://moonbeam.network/community/ambassador/apply"
             }
         },
         {
@@ -851,40 +613,6 @@
             }
         },
         {
-            "id": "teafi_official",
-            "name": "TeaFi",
-            "logo": "https://pbs.twimg.com/profile_images/1889694479239520256/t5tFjgrK_400x400.jpg",
-            "status": "active",
-            "category": "DeFi",
-            "socials": {
-                "website": "https://tea-fi.com/",
-                "twitter": "https://twitter.com/TeaFi_Official",
-                "discord": null
-            },
-            "details": {
-                "description": "TeaFi is a crypto super app offering seamless DeFi tools, trading, and community features with a strong focus on user experience and ecosystem growth.",
-                "announcement_url": "https://x.com/TeaFi_Official/status/2033937472460038382",
-                "apply_url": "https://solusgroup.notion.site/Tea-Fi-Ambassador-Program-Phase-3-30b00d477f43807e8c2fdbbc8adcf1c7"
-            }
-        },
-        {
-            "id": "kultgames",
-            "name": "Kult Games",
-            "logo": "https://pbs.twimg.com/profile_images/1757821302889721856/oaqlVqDI_400x400.png",
-            "status": "active",
-            "category": "Gaming",
-            "socials": {
-                "website": "https://kult.games/",
-                "twitter": "https://twitter.com/_KultGames",
-                "discord": null
-            },
-            "details": {
-                "description": "Kult Games is a Web3 gaming ecosystem empowering true digital ownership, play-to-earn mechanics, and community-driven development in the next generation of blockchain gaming.",
-                "announcement_url": "https://x.com/_KultGames/status/2026970641925333004",
-                "apply_url": "https://docs.google.com/forms/d/e/1FAIpQLSdYyQ2PY6-uFUwDCG9xdv7ftatkryA4Uj-osdvCgjnr7tlMww/viewform"
-            }
-        },
-        {
             "id": "wheelx_fi",
             "name": "WheelX",
             "logo": "https://pbs.twimg.com/profile_images/1945645513077821441/vXFXoAyo_400x400.jpg",
@@ -902,23 +630,6 @@
             }
         },
         {
-            "id": "speculatex",
-            "name": "SpeculateX",
-            "logo": "https://pbs.twimg.com/profile_images/2019386152860434432/ajPgmbmq_400x400.jpg",
-            "status": "active",
-            "category": "Prediction Market",
-            "socials": {
-                "website": null,
-                "twitter": "https://twitter.com/SpeculateX",
-                "discord": null
-            },
-            "details": {
-                "description": "SpeculateX is a decentralized prediction market on BNB Chain where users trade yes/no outcomes on crypto and real-world events with revenue-sharing rewards for ambassadors.",
-                "announcement_url": "https://x.com/SpeculateX/status/2023667257272873194",
-                "apply_url": "https://docs.google.com/forms/d/e/1FAIpQLSdURBdEF8N4hvVBQazwC_6DlkRgCCJrPmdY9dgoM8zN-LhAcQ/viewform"
-            }
-        },
-        {
             "id": "dfusionai",
             "name": "dFusion AI",
             "logo": "https://pbs.twimg.com/profile_images/1784806051214454784/9V8vd93X_400x400.png",
@@ -933,23 +644,6 @@
                 "description": "dFusion AI combines AI fact-checking with decentralized consensus through Vericore, building a truth-verified internet via semantic intelligence and community-driven data subnets.",
                 "announcement_url": "https://x.com/dFusionAI/status/2023405550294413817",
                 "apply_url": "https://docs.google.com/forms/d/e/1FAIpQLSdyvwETfMsnM2BG-cIa2uxhrL76w1XOMPXbHiWTQDvcsAYcLg/viewform"
-            }
-        },
-        {
-            "id": "helmtrading",
-            "name": "Helm Trading",
-            "logo": "https://pbs.twimg.com/profile_images/2027060585645658112/IQ-Cs9Px_400x400.jpg",
-            "status": "active",
-            "category": "Trading",
-            "socials": {
-                "website": "https://helm.trading/",
-                "twitter": "https://twitter.com/HelmTrading",
-                "discord": null
-            },
-            "details": {
-                "description": "Helm Trading is a growing crypto trading platform offering community rewards and real $HELM incentives for active ambassadors and contributors.",
-                "announcement_url": "https://x.com/HelmTrading/status/2031431896702529969",
-                "apply_url": "https://docs.google.com/forms/d/e/1FAIpQLScGsgl_q85y_aaQBgGebCpV01Ya-CGJN-13CJ7vSKDv5RC2Ig/viewform"
             }
         }
 
