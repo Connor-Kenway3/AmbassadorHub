@@ -562,23 +562,6 @@
             }
         },
         {
-            "id": "mandalachain",
-            "name": "Mandala Chain",
-            "logo": "https://pbs.twimg.com/profile_images/2009199833005936640/0Epb3t8c_400x400.jpg",
-            "status": "active",
-            "category": "L1",
-            "socials": {
-                "website": "https://www.mandalachain.io/",
-                "twitter": "https://twitter.com/MandalaChain",
-                "discord": null
-            },
-            "details": {
-                "description": "Mandala Chain is a sovereign blockchain infrastructure platform designed to connect retail, government, and enterprise, enabling rapid deployment for mass adoption in Southeast Asia and beyond.",
-                "announcement_url": "https://x.com/MandalaChain/status/2034264134418600084",
-                "apply_url": "https://forms.gle/eBztNjK5zJ3KkNCM7"
-            }
-        },
-        {
             "id": "dzap_io",
             "name": "DZap",
             "logo": "https://pbs.twimg.com/profile_images/1929484623412633600/axOBrc8H_400x400.jpg",
