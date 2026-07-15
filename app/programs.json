@@ -69,23 +69,6 @@
             }
         },
         {
-            "id": "chance_",
-            "name": "Chance",
-            "logo": "https://pbs.twimg.com/profile_images/2001455742738436096/ZylCbw5Y.jpg",
-            "status": "active",
-            "category": "Prediction Market",
-            "socials": {
-                "website": "https://chance.cc/",
-                "twitter": "https://twitter.com/chance_",
-                "discord": null
-            },
-            "details": {
-                "description": "Chance is a perpetual learner and thinker focused on understanding how and why things work; not primarily crypto-focused but occasionally engages with tech and innovation discussions.",
-                "announcement_url": "https://x.com/Chance_/status/2019146726234259476",
-                "apply_url": "https://docs.google.com/forms/d/e/1FAIpQLSdDMpzMo2sjMgRqYfpYUrnucfF8IVg-t31wpDymqDWfbh6rog/viewform?usp=send_form"
-            }
-        },
-        {
             "id": "predictbase",
             "name": "PredictBase",
             "logo": "https://pbs.twimg.com/profile_images/1996763276529848320/kB3OaQo5.jpg",
@@ -116,7 +99,7 @@
             "details": {
                 "description": "Byzanlink is an RWA tokenization platform bridging DeFi and TradFi, backed by Outlier Ventures and NTDPSA, enabling secure, programmable real-world asset yield and on-chain capital markets.",
                 "announcement_url": "https://x.com/byzanlink/status/2018339576314781739",
-                "apply_url": "https://docs.google.com/forms/d/e/1FAIpQLSfNcoNQCdehG0ZORHfb6v0h4tBgyh_uVKYxlpjA4K-Awv0lEw/viewform?usp=send_form"
+                "apply_url": "https://docs.google.com/forms/d/e/1FAIpQLScUaK6mnJQpJhVnchDU350At-dVJuNTXyOca_6PwYI2xClxzw/viewform"
             }
         },
         {
@@ -392,23 +375,6 @@
             }
         },
         {
-            "id": "cronos_chain",
-            "name": "Cronos",
-            "logo": "https://pbs.twimg.com/profile_images/2005458318014435328/CUxIhh3S.jpg",
-            "status": "active",
-            "category": "L1",
-            "socials": {
-                "website": "https://cronos.org/",
-                "twitter": "https://twitter.com/cronos_chain",
-                "discord": "https://discord.com/invite/cronos"
-            },
-            "details": {
-                "description": "Cronos is bringing real-world finance to billions on-chain, with EVM compatibility, AI-ready features, and compliance.",
-                "announcement_url": "https://twitter.com/cronos_chain",
-                "apply_url": "https://cronos.typeform.com/s2application"
-            }
-        },
-        {
             "id": "midnightntwrk",
             "name": "Midnight",
             "logo": "https://pbs.twimg.com/profile_images/1707073625214582784/MsMpvtzV.jpg",
@@ -610,23 +576,6 @@
                 "description": "HeLa is an AI-native Layer 1 blockchain for human-AI collaboration, combining personalized AI with native yields on one chain.",
                 "announcement_url": "https://helalabs.com/blog/hela-ambassador-program-2-0",
                 "apply_url": "https://ambassador.helalabs.com/"
-            }
-        },
-        {
-            "id": "degenphone",
-            "name": "DegenPhone",
-            "logo": "https://pbs.twimg.com/profile_images/1973414878816731136/7HbQiVdL.jpg",
-            "status": "active",
-            "category": "Telecom",
-            "socials": {
-                "website": "https://degenphone.xyz/",
-                "twitter": "https://twitter.com/degenphone",
-                "discord": "https://discord.com/invite/degenphone"
-            },
-            "details": {
-                "description": "DegenPhone enables minting, using, and trading real phone numbers as NFTs on TON, offering fast, private, KYC-free mobile connectivity.",
-                "announcement_url": "https://twitter.com/degenphone/status/2008909933367197921",
-                "apply_url": "https://docs.google.com/forms/d/12oTPmzkSIs6-FrWN_B75dbRQHKuWcfbMwwZbPCaf62c/viewform?edit_requested=true"
             }
         },
         {
@@ -936,23 +885,6 @@
             }
         },
         {
-            "id": "aveforge",
-            "name": "AveForge",
-            "logo": "https://pbs.twimg.com/profile_images/2016157596277686272/vD_hsxTv_400x400.jpg",
-            "status": "active",
-            "category": "DeFi",
-            "socials": {
-                "website": "https://aveforge.com/",
-                "twitter": "https://twitter.com/AveForge",
-                "discord": null
-            },
-            "details": {
-                "description": "AveForge is building advanced DeFi tools and infrastructure focused on yield optimization, trading, and creator tools in the Web3 space.",
-                "announcement_url": "https://x.com/AveForge/status/2026392199626371356",
-                "apply_url": "https://docs.google.com/forms/d/e/1FAIpQLSdaD-6lo_1umhCPiT7U7Jt0bDyFGgFiyR6K59CVF1dyEaQFAQ/viewform"
-            }
-        },
-        {
             "id": "wheelx_fi",
             "name": "WheelX",
             "logo": "https://pbs.twimg.com/profile_images/1945645513077821441/vXFXoAyo_400x400.jpg",
@@ -1019,23 +951,7 @@
                 "announcement_url": "https://x.com/HelmTrading/status/2031431896702529969",
                 "apply_url": "https://docs.google.com/forms/d/e/1FAIpQLScGsgl_q85y_aaQBgGebCpV01Ya-CGJN-13CJ7vSKDv5RC2Ig/viewform"
             }
-        },
-        {
-            "id": "atmosprotocol",
-            "name": "Atmos Protocol",
-            "logo": "https://pbs.twimg.com/profile_images/1827302906405531649/I2_4yo5b.jpg",
-            "status": "active",
-            "category": "DeFi",
-            "socials": {
-                "website": "https://atmos.ag/",
-                "twitter": "https://twitter.com/AtmosProtocol",
-                "discord": "https://discord.com/invite/2RBgHHukVs"
-            },
-            "details": {
-                "description": "Atmos Protocol is the DeFi hub on Supra Labs, offering social-driven gamified trading, LP & earn, permissionless token studio, meme launches, and portfolio management with on-chain profile building.",
-                "announcement_url": "https://x.com/AtmosProtocol/status/2023803749232505015",
-                "apply_url": "https://docs.google.com/forms/d/e/1FAIpQLSfs_Rs19PG-k_Q-vXZ2ZzNYdq75R3nD4Mf5QtRFl3gCn9ASiA/viewform"
-            }
         }
+
     ]
 }
